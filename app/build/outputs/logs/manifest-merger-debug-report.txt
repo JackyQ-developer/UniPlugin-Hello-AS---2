@@ -1,0 +1,673 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\Project\Android\UniPlugin-Hello-AS - 2\app\src\main\AndroidManifest.xml:2:1-96:12
+INJECTED from F:\Project\Android\UniPlugin-Hello-AS - 2\app\src\main\AndroidManifest.xml:2:1-96:12
+INJECTED from F:\Project\Android\UniPlugin-Hello-AS - 2\app\src\main\AndroidManifest.xml:2:1-96:12
+INJECTED from F:\Project\Android\UniPlugin-Hello-AS - 2\app\src\main\AndroidManifest.xml:2:1-96:12
+MERGED from [android-gif-drawable-release@1.2.17.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\aee279a2498c0648861e491f01529564\AndroidManifest.xml:2:1-10:12
+MERGED from [lib.5plus.base-release.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\e752cf6ad9e81ff93890db2f1d8fa99a\AndroidManifest.xml:2:1-241:12
+MERGED from [msa_mdid_1.0.13.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\98b767a89381834b0fc2bb0516558970\AndroidManifest.xml:1:1-10:12
+MERGED from [uniapp-v8-release.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\38108b6a9590b80035ccfdaf3d7e5b82\AndroidManifest.xml:20:1-37:12
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\6c5ef0ab04fc995582acccb5848f6fe1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\6469d39f01a254f964901b5a861e85d0\AndroidManifest.xml:17:1-22:12
+MERGED from [:jqplugin_trtc] F:\Project\Android\UniPlugin-Hello-AS - 2\jqplugin_trtc\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-15:12
+MERGED from [tuikit-5.1.10.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ae4eece348cb176ea52d039276638a10\AndroidManifest.xml:2:1-74:12
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\e00e0d174e3c305bbcc9ece03d41ebc8\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\f529da73426cd1ecba952f6d4acf611b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\11a73a8ab4c8b9337a4ce020b24970d2\AndroidManifest.xml:17:1-22:12
+MERGED from [:uniplugin_component] F:\Project\Android\UniPlugin-Hello-AS - 2\uniplugin_component\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-11:12
+MERGED from [:uniplugin_module] F:\Project\Android\UniPlugin-Hello-AS - 2\uniplugin_module\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-17:12
+MERGED from [com.facebook.fresco:fresco:1.13.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\dd780e36dd62fb4b71bdb567b3012ceb\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:animated-gif:1.13.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\600375539b408496e8c7c208702cd506\AndroidManifest.xml:2:1-9:12
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\c33198159582c5dd4aa888f9295420f9\AndroidManifest.xml:2:1-12:12
+MERGED from [:uniplugin_richalert] F:\Project\Android\UniPlugin-Hello-AS - 2\uniplugin_richalert\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\a69d32100d4f3e60c25ee728ae92dd3e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\75248fa7b3ab431c20ec0fbcf3cb3b36\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\762811effba1251ddc2d3ddd98b3373a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\cde078fae41aa10c14d420aa10e36d41\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\23d14f41767150682faed1d63b365de2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\411872069d2602c7abb3754957de957c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\68407761d7be9136335c7376b3783e2a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\2ec2bdee4a32c29f51297c95a55b3fb1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ba503c2eae22fe728212c8231133c7de\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\731c27e89e426718630dc6942b444929\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ca10ba990fd2ee5de0bc5d2398c23e9e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\cb3f2c0df9a41e120939beea3820de52\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\692ff6edef2fb7a7f592c45abd3abb1f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\4671162d6e49c9b0bef282ecb68313cc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\25c79e47bdb8d792890f360de5dc59ca\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\61c2c86bf65a2bf60b73a98a73710096\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\eeb75629d5dafa12f9dbcf307b3afc01\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\d18f2d9c2ca8741824cfea67b08f13fd\AndroidManifest.xml:2:1-11:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\6134c70cfdcbf984dfe2e2b41493d5bb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\7d32646b2d2395ae65651e877be45119\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\22c7e522d98fb2c4f23ceffd40e2b174\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\01ccf1a63de78015d0cb0bc1449bfeb4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\97f3f8ad2cfcb20a92363237f714104b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\db8b0ff8bcaa1125d9a144887a43ad41\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\d4be5bf98a51baabb9a92b6d87bd5846\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\6ffe8101f0401f1ca979830c17eafbd5\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\995d840cf8150ba1f76cab6fc810eadb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:animated-base:1.13.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\a5c07e0fc55da7a99825302768415578\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:animated-drawable:1.13.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\7a834a1707623f1a09f6c0b5e74373da\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.13.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ae21be939270be12adfb21a8ae64482a\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:1.13.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\b7b5a28b010137ac3566c695025d01c7\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.13.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\e230090be32fa077cd3fa68b20d32ab0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:1.13.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\8e2c6b1d990083b5d3d368b8e9fb2909\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.13.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\dc2d3ed686ff054e60aaa34d0e18eb23\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fbcore:1.13.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\4355e03f26fe54a7b1f8ff5d0b9444e1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\157e97e2a9231a5803e8cad49914e26b\AndroidManifest.xml:2:1-13:12
+MERGED from [:tuikit-5.1.10:] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ae4eece348cb176ea52d039276638a10\AndroidManifest.xml:2:1-74:12
+INJECTED from F:\Project\Android\UniPlugin-Hello-AS - 2\app\src\main\AndroidManifest.xml:2:1-96:12
+INJECTED from F:\Project\Android\UniPlugin-Hello-AS - 2\app\src\main\AndroidManifest.xml:2:1-96:12
+INJECTED from F:\Project\Android\UniPlugin-Hello-AS - 2\app\src\main\AndroidManifest.xml:2:1-96:12
+	package
+		ADDED from F:\Project\Android\UniPlugin-Hello-AS - 2\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from F:\Project\Android\UniPlugin-Hello-AS - 2\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Project\Android\UniPlugin-Hello-AS - 2\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from F:\Project\Android\UniPlugin-Hello-AS - 2\app\src\main\AndroidManifest.xml
+		ADDED from F:\Project\Android\UniPlugin-Hello-AS - 2\app\src\main\AndroidManifest.xml:2:1-96:12
+		INJECTED from F:\Project\Android\UniPlugin-Hello-AS - 2\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from F:\Project\Android\UniPlugin-Hello-AS - 2\app\src\main\AndroidManifest.xml
+		ADDED from F:\Project\Android\UniPlugin-Hello-AS - 2\app\src\main\AndroidManifest.xml:2:1-96:12
+		INJECTED from F:\Project\Android\UniPlugin-Hello-AS - 2\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\Project\Android\UniPlugin-Hello-AS - 2\app\src\main\AndroidManifest.xml:2:11-69
+supports-screens
+ADDED from F:\Project\Android\UniPlugin-Hello-AS - 2\app\src\main\AndroidManifest.xml:5:5-10:39
+MERGED from [lib.5plus.base-release.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\e752cf6ad9e81ff93890db2f1d8fa99a\AndroidManifest.xml:9:5-14:39
+MERGED from [lib.5plus.base-release.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\e752cf6ad9e81ff93890db2f1d8fa99a\AndroidManifest.xml:9:5-14:39
+	android:largeScreens
+		ADDED from F:\Project\Android\UniPlugin-Hello-AS - 2\app\src\main\AndroidManifest.xml:7:9-36
+	android:smallScreens
+		ADDED from F:\Project\Android\UniPlugin-Hello-AS - 2\app\src\main\AndroidManifest.xml:10:9-36
+	android:normalScreens
+		ADDED from F:\Project\Android\UniPlugin-Hello-AS - 2\app\src\main\AndroidManifest.xml:8:9-37
+	android:resizeable
+		ADDED from F:\Project\Android\UniPlugin-Hello-AS - 2\app\src\main\AndroidManifest.xml:9:9-34
+	android:anyDensity
+		ADDED from F:\Project\Android\UniPlugin-Hello-AS - 2\app\src\main\AndroidManifest.xml:6:9-34
+uses-permission#android.permission.CAMERA
+ADDED from F:\Project\Android\UniPlugin-Hello-AS - 2\app\src\main\AndroidManifest.xml:13:5-65
+	android:name
+		ADDED from F:\Project\Android\UniPlugin-Hello-AS - 2\app\src\main\AndroidManifest.xml:13:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from F:\Project\Android\UniPlugin-Hello-AS - 2\app\src\main\AndroidManifest.xml:14:5-81
+MERGED from [lib.5plus.base-release.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\e752cf6ad9e81ff93890db2f1d8fa99a\AndroidManifest.xml:16:5-81
+MERGED from [lib.5plus.base-release.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\e752cf6ad9e81ff93890db2f1d8fa99a\AndroidManifest.xml:16:5-81
+MERGED from [tuikit-5.1.10.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ae4eece348cb176ea52d039276638a10\AndroidManifest.xml:14:5-81
+MERGED from [tuikit-5.1.10.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ae4eece348cb176ea52d039276638a10\AndroidManifest.xml:14:5-81
+MERGED from [:tuikit-5.1.10:] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ae4eece348cb176ea52d039276638a10\AndroidManifest.xml:14:5-81
+MERGED from [:tuikit-5.1.10:] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ae4eece348cb176ea52d039276638a10\AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from F:\Project\Android\UniPlugin-Hello-AS - 2\app\src\main\AndroidManifest.xml:14:22-78
+uses-feature#android.hardware.camera
+ADDED from F:\Project\Android\UniPlugin-Hello-AS - 2\app\src\main\AndroidManifest.xml:16:5-60
+	android:name
+		ADDED from F:\Project\Android\UniPlugin-Hello-AS - 2\app\src\main\AndroidManifest.xml:16:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from F:\Project\Android\UniPlugin-Hello-AS - 2\app\src\main\AndroidManifest.xml:17:5-70
+	android:name
+		ADDED from F:\Project\Android\UniPlugin-Hello-AS - 2\app\src\main\AndroidManifest.xml:17:19-67
+uses-permission#android.permission.VIBRATE
+ADDED from F:\Project\Android\UniPlugin-Hello-AS - 2\app\src\main\AndroidManifest.xml:19:5-66
+MERGED from [tuikit-5.1.10.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ae4eece348cb176ea52d039276638a10\AndroidManifest.xml:16:5-66
+MERGED from [tuikit-5.1.10.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ae4eece348cb176ea52d039276638a10\AndroidManifest.xml:16:5-66
+MERGED from [:tuikit-5.1.10:] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ae4eece348cb176ea52d039276638a10\AndroidManifest.xml:16:5-66
+MERGED from [:tuikit-5.1.10:] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ae4eece348cb176ea52d039276638a10\AndroidManifest.xml:16:5-66
+	android:name
+		ADDED from F:\Project\Android\UniPlugin-Hello-AS - 2\app\src\main\AndroidManifest.xml:19:22-63
+uses-permission#android.permission.FLASHLIGHT
+ADDED from F:\Project\Android\UniPlugin-Hello-AS - 2\app\src\main\AndroidManifest.xml:20:5-69
+	android:name
+		ADDED from F:\Project\Android\UniPlugin-Hello-AS - 2\app\src\main\AndroidManifest.xml:20:22-66
+application
+ADDED from F:\Project\Android\UniPlugin-Hello-AS - 2\app\src\main\AndroidManifest.xml:23:5-94:19
+MERGED from [lib.5plus.base-release.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\e752cf6ad9e81ff93890db2f1d8fa99a\AndroidManifest.xml:156:5-239:19
+MERGED from [lib.5plus.base-release.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\e752cf6ad9e81ff93890db2f1d8fa99a\AndroidManifest.xml:156:5-239:19
+MERGED from [uniapp-v8-release.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\38108b6a9590b80035ccfdaf3d7e5b82\AndroidManifest.xml:29:5-35:19
+MERGED from [uniapp-v8-release.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\38108b6a9590b80035ccfdaf3d7e5b82\AndroidManifest.xml:29:5-35:19
+MERGED from [:jqplugin_trtc] F:\Project\Android\UniPlugin-Hello-AS - 2\jqplugin_trtc\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:11:5-13:19
+MERGED from [:jqplugin_trtc] F:\Project\Android\UniPlugin-Hello-AS - 2\jqplugin_trtc\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:11:5-13:19
+MERGED from [tuikit-5.1.10.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ae4eece348cb176ea52d039276638a10\AndroidManifest.xml:18:5-72:19
+MERGED from [tuikit-5.1.10.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ae4eece348cb176ea52d039276638a10\AndroidManifest.xml:18:5-72:19
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\e00e0d174e3c305bbcc9ece03d41ebc8\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\e00e0d174e3c305bbcc9ece03d41ebc8\AndroidManifest.xml:9:5-20
+MERGED from [:uniplugin_module] F:\Project\Android\UniPlugin-Hello-AS - 2\uniplugin_module\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:11:5-15:19
+MERGED from [:uniplugin_module] F:\Project\Android\UniPlugin-Hello-AS - 2\uniplugin_module\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\c33198159582c5dd4aa888f9295420f9\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\c33198159582c5dd4aa888f9295420f9\AndroidManifest.xml:10:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\25c79e47bdb8d792890f360de5dc59ca\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\25c79e47bdb8d792890f360de5dc59ca\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\61c2c86bf65a2bf60b73a98a73710096\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\61c2c86bf65a2bf60b73a98a73710096\AndroidManifest.xml:22:5-23:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\d18f2d9c2ca8741824cfea67b08f13fd\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\d18f2d9c2ca8741824cfea67b08f13fd\AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\157e97e2a9231a5803e8cad49914e26b\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\157e97e2a9231a5803e8cad49914e26b\AndroidManifest.xml:11:5-20
+MERGED from [:tuikit-5.1.10:] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ae4eece348cb176ea52d039276638a10\AndroidManifest.xml:18:5-72:19
+MERGED from [:tuikit-5.1.10:] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ae4eece348cb176ea52d039276638a10\AndroidManifest.xml:18:5-72:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\25c79e47bdb8d792890f360de5dc59ca\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from F:\Project\Android\UniPlugin-Hello-AS - 2\app\src\main\AndroidManifest.xml:31:9-35
+	android:label
+		ADDED from F:\Project\Android\UniPlugin-Hello-AS - 2\app\src\main\AndroidManifest.xml:28:9-41
+	android:allowClearUserData
+		ADDED from F:\Project\Android\UniPlugin-Hello-AS - 2\app\src\main\AndroidManifest.xml:26:9-42
+	android:debuggable
+		ADDED from F:\Project\Android\UniPlugin-Hello-AS - 2\app\src\main\AndroidManifest.xml:30:9-34
+	android:largeHeap
+		ADDED from F:\Project\Android\UniPlugin-Hello-AS - 2\app\src\main\AndroidManifest.xml:29:9-33
+	android:icon
+		ADDED from F:\Project\Android\UniPlugin-Hello-AS - 2\app\src\main\AndroidManifest.xml:27:9-38
+	android:allowBackup
+		ADDED from F:\Project\Android\UniPlugin-Hello-AS - 2\app\src\main\AndroidManifest.xml:25:9-35
+	android:usesCleartextTraffic
+		ADDED from [lib.5plus.base-release.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\e752cf6ad9e81ff93890db2f1d8fa99a\AndroidManifest.xml:159:9-44
+	android:name
+		ADDED from F:\Project\Android\UniPlugin-Hello-AS - 2\app\src\main\AndroidManifest.xml:24:9-63
+activity#io.dcloud.PandoraEntry
+ADDED from F:\Project\Android\UniPlugin-Hello-AS - 2\app\src\main\AndroidManifest.xml:34:9-56:20
+	android:hardwareAccelerated
+		ADDED from F:\Project\Android\UniPlugin-Hello-AS - 2\app\src\main\AndroidManifest.xml:38:13-47
+	android:windowSoftInputMode
+		ADDED from F:\Project\Android\UniPlugin-Hello-AS - 2\app\src\main\AndroidManifest.xml:39:13-55
+	android:configChanges
+		ADDED from F:\Project\Android\UniPlugin-Hello-AS - 2\app\src\main\AndroidManifest.xml:37:13-92
+	android:theme
+		ADDED from F:\Project\Android\UniPlugin-Hello-AS - 2\app\src\main\AndroidManifest.xml:36:13-52
+	android:name
+		ADDED from F:\Project\Android\UniPlugin-Hello-AS - 2\app\src\main\AndroidManifest.xml:35:13-50
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:hbuilder
+ADDED from F:\Project\Android\UniPlugin-Hello-AS - 2\app\src\main\AndroidManifest.xml:40:13-46:29
+data
+ADDED from F:\Project\Android\UniPlugin-Hello-AS - 2\app\src\main\AndroidManifest.xml:41:17-50
+	android:scheme
+		ADDED from F:\Project\Android\UniPlugin-Hello-AS - 2\app\src\main\AndroidManifest.xml:41:23-48
+	android:mimeType
+		ADDED from F:\Project\Android\UniPlugin-Hello-AS - 2\app\src\main\AndroidManifest.xml:48:23-49
+action#android.intent.action.VIEW
+ADDED from F:\Project\Android\UniPlugin-Hello-AS - 2\app\src\main\AndroidManifest.xml:42:17-68
+	android:name
+		ADDED from F:\Project\Android\UniPlugin-Hello-AS - 2\app\src\main\AndroidManifest.xml:42:25-66
+category#android.intent.category.DEFAULT
+ADDED from F:\Project\Android\UniPlugin-Hello-AS - 2\app\src\main\AndroidManifest.xml:44:17-75
+	android:name
+		ADDED from F:\Project\Android\UniPlugin-Hello-AS - 2\app\src\main\AndroidManifest.xml:44:27-73
+category#android.intent.category.BROWSABLE
+ADDED from F:\Project\Android\UniPlugin-Hello-AS - 2\app\src\main\AndroidManifest.xml:45:17-77
+	android:name
+		ADDED from F:\Project\Android\UniPlugin-Hello-AS - 2\app\src\main\AndroidManifest.xml:45:27-75
+intent-filter#action:name:android.intent.action.SEND+category:name:android.intent.category.DEFAULT+data:mimeType:image/*
+ADDED from F:\Project\Android\UniPlugin-Hello-AS - 2\app\src\main\AndroidManifest.xml:47:13-51:29
+action#android.intent.action.SEND
+ADDED from F:\Project\Android\UniPlugin-Hello-AS - 2\app\src\main\AndroidManifest.xml:49:17-68
+	android:name
+		ADDED from F:\Project\Android\UniPlugin-Hello-AS - 2\app\src\main\AndroidManifest.xml:49:25-66
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from F:\Project\Android\UniPlugin-Hello-AS - 2\app\src\main\AndroidManifest.xml:52:13-55:29
+action#android.intent.action.MAIN
+ADDED from F:\Project\Android\UniPlugin-Hello-AS - 2\app\src\main\AndroidManifest.xml:53:17-68
+	android:name
+		ADDED from F:\Project\Android\UniPlugin-Hello-AS - 2\app\src\main\AndroidManifest.xml:53:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\Project\Android\UniPlugin-Hello-AS - 2\app\src\main\AndroidManifest.xml:54:17-76
+	android:name
+		ADDED from F:\Project\Android\UniPlugin-Hello-AS - 2\app\src\main\AndroidManifest.xml:54:27-74
+meta-data#dcloud_uninview_background
+ADDED from F:\Project\Android\UniPlugin-Hello-AS - 2\app\src\main\AndroidManifest.xml:57:9-58:35
+	android:value
+		ADDED from F:\Project\Android\UniPlugin-Hello-AS - 2\app\src\main\AndroidManifest.xml:58:13-33
+	android:name
+		ADDED from F:\Project\Android\UniPlugin-Hello-AS - 2\app\src\main\AndroidManifest.xml:57:20-61
+activity#io.dcloud.PandoraEntryActivity
+ADDED from F:\Project\Android\UniPlugin-Hello-AS - 2\app\src\main\AndroidManifest.xml:60:9-84:20
+	android:screenOrientation
+		ADDED from F:\Project\Android\UniPlugin-Hello-AS - 2\app\src\main\AndroidManifest.xml:66:13-45
+	android:launchMode
+		ADDED from F:\Project\Android\UniPlugin-Hello-AS - 2\app\src\main\AndroidManifest.xml:62:13-44
+	android:hardwareAccelerated
+		ADDED from F:\Project\Android\UniPlugin-Hello-AS - 2\app\src\main\AndroidManifest.xml:64:13-47
+	android:windowSoftInputMode
+		ADDED from F:\Project\Android\UniPlugin-Hello-AS - 2\app\src\main\AndroidManifest.xml:68:13-55
+	android:permission
+		ADDED from F:\Project\Android\UniPlugin-Hello-AS - 2\app\src\main\AndroidManifest.xml:65:13-89
+	android:configChanges
+		ADDED from F:\Project\Android\UniPlugin-Hello-AS - 2\app\src\main\AndroidManifest.xml:63:13-101
+	android:theme
+		ADDED from F:\Project\Android\UniPlugin-Hello-AS - 2\app\src\main\AndroidManifest.xml:67:13-47
+	android:name
+		ADDED from F:\Project\Android\UniPlugin-Hello-AS - 2\app\src\main\AndroidManifest.xml:61:13-58
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:h56131bcf
+ADDED from F:\Project\Android\UniPlugin-Hello-AS - 2\app\src\main\AndroidManifest.xml:70:13-83:29
+provider#io.dcloud.common.util.DCloud_FileProvider
+ADDED from F:\Project\Android\UniPlugin-Hello-AS - 2\app\src\main\AndroidManifest.xml:85:9-93:20
+	android:grantUriPermissions
+		ADDED from F:\Project\Android\UniPlugin-Hello-AS - 2\app\src\main\AndroidManifest.xml:89:13-47
+	android:authorities
+		ADDED from F:\Project\Android\UniPlugin-Hello-AS - 2\app\src\main\AndroidManifest.xml:87:13-73
+	android:exported
+		ADDED from F:\Project\Android\UniPlugin-Hello-AS - 2\app\src\main\AndroidManifest.xml:88:13-37
+	android:name
+		ADDED from F:\Project\Android\UniPlugin-Hello-AS - 2\app\src\main\AndroidManifest.xml:86:13-69
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from F:\Project\Android\UniPlugin-Hello-AS - 2\app\src\main\AndroidManifest.xml:90:13-92:64
+MERGED from [:tuikit-5.1.10:] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ae4eece348cb176ea52d039276638a10\AndroidManifest.xml:68:13-70:61
+MERGED from [:tuikit-5.1.10:] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ae4eece348cb176ea52d039276638a10\AndroidManifest.xml:68:13-70:61
+	android:resource
+		ADDED from F:\Project\Android\UniPlugin-Hello-AS - 2\app\src\main\AndroidManifest.xml:92:17-61
+	android:name
+		ADDED from F:\Project\Android\UniPlugin-Hello-AS - 2\app\src\main\AndroidManifest.xml:91:17-67
+uses-sdk
+INJECTED from F:\Project\Android\UniPlugin-Hello-AS - 2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from F:\Project\Android\UniPlugin-Hello-AS - 2\app\src\main\AndroidManifest.xml
+INJECTED from F:\Project\Android\UniPlugin-Hello-AS - 2\app\src\main\AndroidManifest.xml
+MERGED from [android-gif-drawable-release@1.2.17.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\aee279a2498c0648861e491f01529564\AndroidManifest.xml:6:5-8:41
+MERGED from [android-gif-drawable-release@1.2.17.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\aee279a2498c0648861e491f01529564\AndroidManifest.xml:6:5-8:41
+MERGED from [lib.5plus.base-release.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\e752cf6ad9e81ff93890db2f1d8fa99a\AndroidManifest.xml:7:5-44
+MERGED from [lib.5plus.base-release.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\e752cf6ad9e81ff93890db2f1d8fa99a\AndroidManifest.xml:7:5-44
+MERGED from [uniapp-v8-release.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\38108b6a9590b80035ccfdaf3d7e5b82\AndroidManifest.xml:25:5-27:41
+MERGED from [uniapp-v8-release.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\38108b6a9590b80035ccfdaf3d7e5b82\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\6c5ef0ab04fc995582acccb5848f6fe1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\6c5ef0ab04fc995582acccb5848f6fe1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\6469d39f01a254f964901b5a861e85d0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\6469d39f01a254f964901b5a861e85d0\AndroidManifest.xml:20:5-44
+MERGED from [:jqplugin_trtc] F:\Project\Android\UniPlugin-Hello-AS - 2\jqplugin_trtc\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-9:41
+MERGED from [:jqplugin_trtc] F:\Project\Android\UniPlugin-Hello-AS - 2\jqplugin_trtc\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-9:41
+MERGED from [tuikit-5.1.10.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ae4eece348cb176ea52d039276638a10\AndroidManifest.xml:7:5-9:41
+MERGED from [tuikit-5.1.10.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ae4eece348cb176ea52d039276638a10\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\e00e0d174e3c305bbcc9ece03d41ebc8\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\e00e0d174e3c305bbcc9ece03d41ebc8\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\f529da73426cd1ecba952f6d4acf611b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\f529da73426cd1ecba952f6d4acf611b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\11a73a8ab4c8b9337a4ce020b24970d2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\11a73a8ab4c8b9337a4ce020b24970d2\AndroidManifest.xml:20:5-44
+MERGED from [:uniplugin_component] F:\Project\Android\UniPlugin-Hello-AS - 2\uniplugin_component\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-9:41
+MERGED from [:uniplugin_component] F:\Project\Android\UniPlugin-Hello-AS - 2\uniplugin_component\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-9:41
+MERGED from [:uniplugin_module] F:\Project\Android\UniPlugin-Hello-AS - 2\uniplugin_module\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-9:41
+MERGED from [:uniplugin_module] F:\Project\Android\UniPlugin-Hello-AS - 2\uniplugin_module\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fresco:1.13.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\dd780e36dd62fb4b71bdb567b3012ceb\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.13.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\dd780e36dd62fb4b71bdb567b3012ceb\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-gif:1.13.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\600375539b408496e8c7c208702cd506\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-gif:1.13.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\600375539b408496e8c7c208702cd506\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\c33198159582c5dd4aa888f9295420f9\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\c33198159582c5dd4aa888f9295420f9\AndroidManifest.xml:6:5-8:41
+MERGED from [:uniplugin_richalert] F:\Project\Android\UniPlugin-Hello-AS - 2\uniplugin_richalert\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-9:41
+MERGED from [:uniplugin_richalert] F:\Project\Android\UniPlugin-Hello-AS - 2\uniplugin_richalert\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\a69d32100d4f3e60c25ee728ae92dd3e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\a69d32100d4f3e60c25ee728ae92dd3e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\75248fa7b3ab431c20ec0fbcf3cb3b36\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\75248fa7b3ab431c20ec0fbcf3cb3b36\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\762811effba1251ddc2d3ddd98b3373a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\762811effba1251ddc2d3ddd98b3373a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\cde078fae41aa10c14d420aa10e36d41\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\cde078fae41aa10c14d420aa10e36d41\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\23d14f41767150682faed1d63b365de2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\23d14f41767150682faed1d63b365de2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\411872069d2602c7abb3754957de957c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\411872069d2602c7abb3754957de957c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\68407761d7be9136335c7376b3783e2a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\68407761d7be9136335c7376b3783e2a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\2ec2bdee4a32c29f51297c95a55b3fb1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\2ec2bdee4a32c29f51297c95a55b3fb1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ba503c2eae22fe728212c8231133c7de\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ba503c2eae22fe728212c8231133c7de\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\731c27e89e426718630dc6942b444929\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\731c27e89e426718630dc6942b444929\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ca10ba990fd2ee5de0bc5d2398c23e9e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ca10ba990fd2ee5de0bc5d2398c23e9e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\cb3f2c0df9a41e120939beea3820de52\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\cb3f2c0df9a41e120939beea3820de52\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\692ff6edef2fb7a7f592c45abd3abb1f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\692ff6edef2fb7a7f592c45abd3abb1f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\4671162d6e49c9b0bef282ecb68313cc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\4671162d6e49c9b0bef282ecb68313cc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\25c79e47bdb8d792890f360de5dc59ca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\25c79e47bdb8d792890f360de5dc59ca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\61c2c86bf65a2bf60b73a98a73710096\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\61c2c86bf65a2bf60b73a98a73710096\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\eeb75629d5dafa12f9dbcf307b3afc01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\eeb75629d5dafa12f9dbcf307b3afc01\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\d18f2d9c2ca8741824cfea67b08f13fd\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\d18f2d9c2ca8741824cfea67b08f13fd\AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\6134c70cfdcbf984dfe2e2b41493d5bb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\6134c70cfdcbf984dfe2e2b41493d5bb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\7d32646b2d2395ae65651e877be45119\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\7d32646b2d2395ae65651e877be45119\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\22c7e522d98fb2c4f23ceffd40e2b174\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\22c7e522d98fb2c4f23ceffd40e2b174\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\01ccf1a63de78015d0cb0bc1449bfeb4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\01ccf1a63de78015d0cb0bc1449bfeb4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\97f3f8ad2cfcb20a92363237f714104b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\97f3f8ad2cfcb20a92363237f714104b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\db8b0ff8bcaa1125d9a144887a43ad41\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\db8b0ff8bcaa1125d9a144887a43ad41\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\d4be5bf98a51baabb9a92b6d87bd5846\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\d4be5bf98a51baabb9a92b6d87bd5846\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\6ffe8101f0401f1ca979830c17eafbd5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\6ffe8101f0401f1ca979830c17eafbd5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\995d840cf8150ba1f76cab6fc810eadb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\995d840cf8150ba1f76cab6fc810eadb\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:animated-base:1.13.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\a5c07e0fc55da7a99825302768415578\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-base:1.13.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\a5c07e0fc55da7a99825302768415578\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-drawable:1.13.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\7a834a1707623f1a09f6c0b5e74373da\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-drawable:1.13.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\7a834a1707623f1a09f6c0b5e74373da\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.13.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ae21be939270be12adfb21a8ae64482a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.13.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ae21be939270be12adfb21a8ae64482a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:1.13.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\b7b5a28b010137ac3566c695025d01c7\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:1.13.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\b7b5a28b010137ac3566c695025d01c7\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.13.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\e230090be32fa077cd3fa68b20d32ab0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.13.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\e230090be32fa077cd3fa68b20d32ab0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:1.13.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\8e2c6b1d990083b5d3d368b8e9fb2909\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:1.13.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\8e2c6b1d990083b5d3d368b8e9fb2909\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.13.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\dc2d3ed686ff054e60aaa34d0e18eb23\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.13.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\dc2d3ed686ff054e60aaa34d0e18eb23\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.13.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\4355e03f26fe54a7b1f8ff5d0b9444e1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.13.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\4355e03f26fe54a7b1f8ff5d0b9444e1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\157e97e2a9231a5803e8cad49914e26b\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\157e97e2a9231a5803e8cad49914e26b\AndroidManifest.xml:7:5-9:41
+MERGED from [:tuikit-5.1.10:] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ae4eece348cb176ea52d039276638a10\AndroidManifest.xml:7:5-9:41
+MERGED from [:tuikit-5.1.10:] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ae4eece348cb176ea52d039276638a10\AndroidManifest.xml:7:5-9:41
+INJECTED from F:\Project\Android\UniPlugin-Hello-AS - 2\app\src\main\AndroidManifest.xml
+INJECTED from F:\Project\Android\UniPlugin-Hello-AS - 2\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from F:\Project\Android\UniPlugin-Hello-AS - 2\app\src\main\AndroidManifest.xml
+		ADDED from F:\Project\Android\UniPlugin-Hello-AS - 2\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Project\Android\UniPlugin-Hello-AS - 2\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\Project\Android\UniPlugin-Hello-AS - 2\app\src\main\AndroidManifest.xml
+		ADDED from F:\Project\Android\UniPlugin-Hello-AS - 2\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Project\Android\UniPlugin-Hello-AS - 2\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from [lib.5plus.base-release.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\e752cf6ad9e81ff93890db2f1d8fa99a\AndroidManifest.xml:17:5-67
+MERGED from [msa_mdid_1.0.13.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\98b767a89381834b0fc2bb0516558970\AndroidManifest.xml:6:5-67
+MERGED from [msa_mdid_1.0.13.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\98b767a89381834b0fc2bb0516558970\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from [lib.5plus.base-release.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\e752cf6ad9e81ff93890db2f1d8fa99a\AndroidManifest.xml:17:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [lib.5plus.base-release.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\e752cf6ad9e81ff93890db2f1d8fa99a\AndroidManifest.xml:18:5-79
+MERGED from [msa_mdid_1.0.13.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\98b767a89381834b0fc2bb0516558970\AndroidManifest.xml:4:5-79
+MERGED from [msa_mdid_1.0.13.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\98b767a89381834b0fc2bb0516558970\AndroidManifest.xml:4:5-79
+MERGED from [tuikit-5.1.10.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ae4eece348cb176ea52d039276638a10\AndroidManifest.xml:11:5-79
+MERGED from [tuikit-5.1.10.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ae4eece348cb176ea52d039276638a10\AndroidManifest.xml:11:5-79
+MERGED from [:tuikit-5.1.10:] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ae4eece348cb176ea52d039276638a10\AndroidManifest.xml:11:5-79
+MERGED from [:tuikit-5.1.10:] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ae4eece348cb176ea52d039276638a10\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from [lib.5plus.base-release.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\e752cf6ad9e81ff93890db2f1d8fa99a\AndroidManifest.xml:18:22-76
+uses-permission#com.huawei.android.launcher.permission.CHANGE_BADGE
+ADDED from [lib.5plus.base-release.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\e752cf6ad9e81ff93890db2f1d8fa99a\AndroidManifest.xml:24:5-91
+	android:name
+		ADDED from [lib.5plus.base-release.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\e752cf6ad9e81ff93890db2f1d8fa99a\AndroidManifest.xml:24:22-88
+service#io.dcloud.common.adapter.io.MiniServerService
+ADDED from [lib.5plus.base-release.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\e752cf6ad9e81ff93890db2f1d8fa99a\AndroidManifest.xml:160:9-162:40
+	android:exported
+		ADDED from [lib.5plus.base-release.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\e752cf6ad9e81ff93890db2f1d8fa99a\AndroidManifest.xml:162:13-37
+	android:name
+		ADDED from [lib.5plus.base-release.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\e752cf6ad9e81ff93890db2f1d8fa99a\AndroidManifest.xml:161:13-73
+receiver#io.dcloud.common.adapter.io.PushReceiver
+ADDED from [lib.5plus.base-release.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\e752cf6ad9e81ff93890db2f1d8fa99a\AndroidManifest.xml:164:9-170:20
+	android:exported
+		ADDED from [lib.5plus.base-release.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\e752cf6ad9e81ff93890db2f1d8fa99a\AndroidManifest.xml:166:13-37
+	android:name
+		ADDED from [lib.5plus.base-release.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\e752cf6ad9e81ff93890db2f1d8fa99a\AndroidManifest.xml:165:13-68
+intent-filter#action:name:dcloud.push.broswer
+ADDED from [lib.5plus.base-release.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\e752cf6ad9e81ff93890db2f1d8fa99a\AndroidManifest.xml:167:13-169:29
+action#dcloud.push.broswer
+ADDED from [lib.5plus.base-release.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\e752cf6ad9e81ff93890db2f1d8fa99a\AndroidManifest.xml:168:17-62
+	android:name
+		ADDED from [lib.5plus.base-release.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\e752cf6ad9e81ff93890db2f1d8fa99a\AndroidManifest.xml:168:25-59
+activity#io.dcloud.imagepick.CustomGalleryActivity
+ADDED from [lib.5plus.base-release.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\e752cf6ad9e81ff93890db2f1d8fa99a\AndroidManifest.xml:172:9-175:40
+	android:noHistory
+		ADDED from [lib.5plus.base-release.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\e752cf6ad9e81ff93890db2f1d8fa99a\AndroidManifest.xml:175:13-37
+	android:exported
+		ADDED from [lib.5plus.base-release.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\e752cf6ad9e81ff93890db2f1d8fa99a\AndroidManifest.xml:174:13-37
+	android:name
+		ADDED from [lib.5plus.base-release.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\e752cf6ad9e81ff93890db2f1d8fa99a\AndroidManifest.xml:173:13-69
+activity#io.dcloud.feature.nativeObj.photoview.PhotoActivity
+ADDED from [lib.5plus.base-release.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\e752cf6ad9e81ff93890db2f1d8fa99a\AndroidManifest.xml:176:9-180:58
+	android:noHistory
+		ADDED from [lib.5plus.base-release.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\e752cf6ad9e81ff93890db2f1d8fa99a\AndroidManifest.xml:179:13-38
+	android:exported
+		ADDED from [lib.5plus.base-release.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\e752cf6ad9e81ff93890db2f1d8fa99a\AndroidManifest.xml:178:13-37
+	android:theme
+		ADDED from [lib.5plus.base-release.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\e752cf6ad9e81ff93890db2f1d8fa99a\AndroidManifest.xml:180:13-55
+	android:name
+		ADDED from [lib.5plus.base-release.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\e752cf6ad9e81ff93890db2f1d8fa99a\AndroidManifest.xml:177:13-79
+activity#io.dcloud.WebAppActivity
+ADDED from [lib.5plus.base-release.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\e752cf6ad9e81ff93890db2f1d8fa99a\AndroidManifest.xml:181:9-191:58
+	android:screenOrientation
+		ADDED from [lib.5plus.base-release.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\e752cf6ad9e81ff93890db2f1d8fa99a\AndroidManifest.xml:188:13-49
+	android:label
+		ADDED from [lib.5plus.base-release.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\e752cf6ad9e81ff93890db2f1d8fa99a\AndroidManifest.xml:186:13-46
+	android:launchMode
+		ADDED from [lib.5plus.base-release.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\e752cf6ad9e81ff93890db2f1d8fa99a\AndroidManifest.xml:187:13-44
+	android:hardwareAccelerated
+		ADDED from [lib.5plus.base-release.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\e752cf6ad9e81ff93890db2f1d8fa99a\AndroidManifest.xml:184:13-47
+	android:windowSoftInputMode
+		ADDED from [lib.5plus.base-release.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\e752cf6ad9e81ff93890db2f1d8fa99a\AndroidManifest.xml:191:13-55
+	android:configChanges
+		ADDED from [lib.5plus.base-release.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\e752cf6ad9e81ff93890db2f1d8fa99a\AndroidManifest.xml:183:13-92
+	android:icon
+		ADDED from [lib.5plus.base-release.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\e752cf6ad9e81ff93890db2f1d8fa99a\AndroidManifest.xml:185:13-51
+	android:theme
+		ADDED from [lib.5plus.base-release.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\e752cf6ad9e81ff93890db2f1d8fa99a\AndroidManifest.xml:190:13-47
+	android:taskAffinity
+		ADDED from [lib.5plus.base-release.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\e752cf6ad9e81ff93890db2f1d8fa99a\AndroidManifest.xml:189:13-43
+	android:name
+		ADDED from [lib.5plus.base-release.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\e752cf6ad9e81ff93890db2f1d8fa99a\AndroidManifest.xml:182:13-52
+activity#io.dcloud.ProcessMediator
+ADDED from [lib.5plus.base-release.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\e752cf6ad9e81ff93890db2f1d8fa99a\AndroidManifest.xml:192:9-198:75
+	android:label
+		ADDED from [lib.5plus.base-release.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\e752cf6ad9e81ff93890db2f1d8fa99a\AndroidManifest.xml:196:13-45
+	android:excludeFromRecents
+		ADDED from [lib.5plus.base-release.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\e752cf6ad9e81ff93890db2f1d8fa99a\AndroidManifest.xml:194:13-46
+	android:launchMode
+		ADDED from [lib.5plus.base-release.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\e752cf6ad9e81ff93890db2f1d8fa99a\AndroidManifest.xml:197:13-43
+	android:exported
+		ADDED from [lib.5plus.base-release.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\e752cf6ad9e81ff93890db2f1d8fa99a\AndroidManifest.xml:195:13-37
+	android:theme
+		ADDED from [lib.5plus.base-release.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\e752cf6ad9e81ff93890db2f1d8fa99a\AndroidManifest.xml:198:13-72
+	android:name
+		ADDED from [lib.5plus.base-release.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\e752cf6ad9e81ff93890db2f1d8fa99a\AndroidManifest.xml:193:13-53
+activity#io.dcloud.WebviewActivity
+ADDED from [lib.5plus.base-release.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\e752cf6ad9e81ff93890db2f1d8fa99a\AndroidManifest.xml:199:9-205:20
+	android:screenOrientation
+		ADDED from [lib.5plus.base-release.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\e752cf6ad9e81ff93890db2f1d8fa99a\AndroidManifest.xml:202:13-49
+	android:windowSoftInputMode
+		ADDED from [lib.5plus.base-release.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\e752cf6ad9e81ff93890db2f1d8fa99a\AndroidManifest.xml:204:13-52
+	android:exported
+		ADDED from [lib.5plus.base-release.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\e752cf6ad9e81ff93890db2f1d8fa99a\AndroidManifest.xml:201:13-37
+	android:theme
+		ADDED from [lib.5plus.base-release.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\e752cf6ad9e81ff93890db2f1d8fa99a\AndroidManifest.xml:203:13-51
+	android:name
+		ADDED from [lib.5plus.base-release.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\e752cf6ad9e81ff93890db2f1d8fa99a\AndroidManifest.xml:200:13-53
+receiver#io.dcloud.common.adapter.io.DownloadReceiver
+ADDED from [lib.5plus.base-release.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\e752cf6ad9e81ff93890db2f1d8fa99a\AndroidManifest.xml:207:9-218:20
+	android:exported
+		ADDED from [lib.5plus.base-release.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\e752cf6ad9e81ff93890db2f1d8fa99a\AndroidManifest.xml:209:13-37
+	android:name
+		ADDED from [lib.5plus.base-release.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\e752cf6ad9e81ff93890db2f1d8fa99a\AndroidManifest.xml:208:13-72
+intent-filter#action:name:android.intent.action.DOWNLOAD_COMPLETE
+ADDED from [lib.5plus.base-release.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\e752cf6ad9e81ff93890db2f1d8fa99a\AndroidManifest.xml:210:13-212:29
+action#android.intent.action.DOWNLOAD_COMPLETE
+ADDED from [lib.5plus.base-release.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\e752cf6ad9e81ff93890db2f1d8fa99a\AndroidManifest.xml:211:17-82
+	android:name
+		ADDED from [lib.5plus.base-release.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\e752cf6ad9e81ff93890db2f1d8fa99a\AndroidManifest.xml:211:25-79
+intent-filter#action:name:android.intent.action.PACKAGE_ADDED+data:scheme:package
+ADDED from [lib.5plus.base-release.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\e752cf6ad9e81ff93890db2f1d8fa99a\AndroidManifest.xml:213:13-217:29
+action#android.intent.action.PACKAGE_ADDED
+ADDED from [lib.5plus.base-release.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\e752cf6ad9e81ff93890db2f1d8fa99a\AndroidManifest.xml:214:17-78
+	android:name
+		ADDED from [lib.5plus.base-release.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\e752cf6ad9e81ff93890db2f1d8fa99a\AndroidManifest.xml:214:25-75
+meta-data#android.max_aspect
+ADDED from [lib.5plus.base-release.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\e752cf6ad9e81ff93890db2f1d8fa99a\AndroidManifest.xml:236:9-238:35
+	android:value
+		ADDED from [lib.5plus.base-release.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\e752cf6ad9e81ff93890db2f1d8fa99a\AndroidManifest.xml:238:13-32
+	android:name
+		ADDED from [lib.5plus.base-release.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\e752cf6ad9e81ff93890db2f1d8fa99a\AndroidManifest.xml:237:13-46
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from F:\Project\Android\UniPlugin-Hello-AS - 2\app\src\main\AndroidManifest.xml:2:1-96:12 reason: io.dcloud.base requested WRITE_EXTERNAL_STORAGE
+MERGED from [tuikit-5.1.10.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ae4eece348cb176ea52d039276638a10\AndroidManifest.xml:15:5-80
+MERGED from [tuikit-5.1.10.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ae4eece348cb176ea52d039276638a10\AndroidManifest.xml:15:5-80
+MERGED from [:tuikit-5.1.10:] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ae4eece348cb176ea52d039276638a10\AndroidManifest.xml:15:5-80
+MERGED from [:tuikit-5.1.10:] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ae4eece348cb176ea52d039276638a10\AndroidManifest.xml:15:5-80
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from [msa_mdid_1.0.13.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\98b767a89381834b0fc2bb0516558970\AndroidManifest.xml:5:5-75
+MERGED from [tuikit-5.1.10.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ae4eece348cb176ea52d039276638a10\AndroidManifest.xml:13:5-75
+MERGED from [tuikit-5.1.10.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ae4eece348cb176ea52d039276638a10\AndroidManifest.xml:13:5-75
+MERGED from [:tuikit-5.1.10:] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ae4eece348cb176ea52d039276638a10\AndroidManifest.xml:13:5-75
+MERGED from [:tuikit-5.1.10:] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ae4eece348cb176ea52d039276638a10\AndroidManifest.xml:13:5-75
+	android:name
+		ADDED from [msa_mdid_1.0.13.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\98b767a89381834b0fc2bb0516558970\AndroidManifest.xml:5:22-72
+uses-permission#com.asus.msa.SupplementaryDID.ACCESS
+ADDED from [msa_mdid_1.0.13.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\98b767a89381834b0fc2bb0516558970\AndroidManifest.xml:8:5-76
+	android:name
+		ADDED from [msa_mdid_1.0.13.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\98b767a89381834b0fc2bb0516558970\AndroidManifest.xml:8:22-73
+receiver#com.taobao.weex.WXGlobalEventReceiver
+ADDED from [uniapp-v8-release.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\38108b6a9590b80035ccfdaf3d7e5b82\AndroidManifest.xml:30:9-34:20
+	android:enabled
+		ADDED from [uniapp-v8-release.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\38108b6a9590b80035ccfdaf3d7e5b82\AndroidManifest.xml:32:13-35
+	android:exported
+		ADDED from [uniapp-v8-release.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\38108b6a9590b80035ccfdaf3d7e5b82\AndroidManifest.xml:33:13-37
+	android:name
+		ADDED from [uniapp-v8-release.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\38108b6a9590b80035ccfdaf3d7e5b82\AndroidManifest.xml:31:13-65
+activity#com.example.jqplugin.MainActivity
+ADDED from [:jqplugin_trtc] F:\Project\Android\UniPlugin-Hello-AS - 2\jqplugin_trtc\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:12:9-70
+	android:name
+		ADDED from [:jqplugin_trtc] F:\Project\Android\UniPlugin-Hello-AS - 2\jqplugin_trtc\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:12:19-67
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [tuikit-5.1.10.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ae4eece348cb176ea52d039276638a10\AndroidManifest.xml:12:5-76
+MERGED from [:tuikit-5.1.10:] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ae4eece348cb176ea52d039276638a10\AndroidManifest.xml:12:5-76
+MERGED from [:tuikit-5.1.10:] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ae4eece348cb176ea52d039276638a10\AndroidManifest.xml:12:5-76
+	android:name
+		ADDED from [tuikit-5.1.10.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ae4eece348cb176ea52d039276638a10\AndroidManifest.xml:12:22-73
+activity#com.tencent.qcloud.tim.uikit.component.video.CameraActivity
+ADDED from [tuikit-5.1.10.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ae4eece348cb176ea52d039276638a10\AndroidManifest.xml:19:9-21:52
+MERGED from [:tuikit-5.1.10:] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ae4eece348cb176ea52d039276638a10\AndroidManifest.xml:19:9-21:52
+MERGED from [:tuikit-5.1.10:] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ae4eece348cb176ea52d039276638a10\AndroidManifest.xml:19:9-21:52
+	android:screenOrientation
+		ADDED from [tuikit-5.1.10.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ae4eece348cb176ea52d039276638a10\AndroidManifest.xml:21:13-49
+	android:name
+		ADDED from [tuikit-5.1.10.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ae4eece348cb176ea52d039276638a10\AndroidManifest.xml:20:13-87
+activity#com.tencent.qcloud.tim.uikit.component.video.VideoViewActivity
+ADDED from [tuikit-5.1.10.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ae4eece348cb176ea52d039276638a10\AndroidManifest.xml:22:9-24:77
+MERGED from [:tuikit-5.1.10:] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ae4eece348cb176ea52d039276638a10\AndroidManifest.xml:22:9-24:77
+MERGED from [:tuikit-5.1.10:] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ae4eece348cb176ea52d039276638a10\AndroidManifest.xml:22:9-24:77
+	android:configChanges
+		ADDED from [tuikit-5.1.10.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ae4eece348cb176ea52d039276638a10\AndroidManifest.xml:24:13-74
+	android:name
+		ADDED from [tuikit-5.1.10.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ae4eece348cb176ea52d039276638a10\AndroidManifest.xml:23:13-90
+activity#com.tencent.qcloud.tim.uikit.component.photoview.PhotoViewActivity
+ADDED from [tuikit-5.1.10.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ae4eece348cb176ea52d039276638a10\AndroidManifest.xml:25:9-27:52
+MERGED from [:tuikit-5.1.10:] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ae4eece348cb176ea52d039276638a10\AndroidManifest.xml:25:9-27:52
+MERGED from [:tuikit-5.1.10:] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ae4eece348cb176ea52d039276638a10\AndroidManifest.xml:25:9-27:52
+	android:screenOrientation
+		ADDED from [tuikit-5.1.10.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ae4eece348cb176ea52d039276638a10\AndroidManifest.xml:27:13-49
+	android:name
+		ADDED from [tuikit-5.1.10.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ae4eece348cb176ea52d039276638a10\AndroidManifest.xml:26:13-94
+activity#com.tencent.qcloud.tim.uikit.modules.group.info.GroupInfoActivity
+ADDED from [tuikit-5.1.10.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ae4eece348cb176ea52d039276638a10\AndroidManifest.xml:28:9-30:52
+MERGED from [:tuikit-5.1.10:] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ae4eece348cb176ea52d039276638a10\AndroidManifest.xml:28:9-30:52
+MERGED from [:tuikit-5.1.10:] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ae4eece348cb176ea52d039276638a10\AndroidManifest.xml:28:9-30:52
+	android:screenOrientation
+		ADDED from [tuikit-5.1.10.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ae4eece348cb176ea52d039276638a10\AndroidManifest.xml:30:13-49
+	android:name
+		ADDED from [tuikit-5.1.10.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ae4eece348cb176ea52d039276638a10\AndroidManifest.xml:29:13-93
+activity#com.tencent.qcloud.tim.uikit.modules.group.info.StartGroupMemberSelectActivity
+ADDED from [tuikit-5.1.10.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ae4eece348cb176ea52d039276638a10\AndroidManifest.xml:31:9-34:52
+MERGED from [:tuikit-5.1.10:] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ae4eece348cb176ea52d039276638a10\AndroidManifest.xml:31:9-34:52
+MERGED from [:tuikit-5.1.10:] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ae4eece348cb176ea52d039276638a10\AndroidManifest.xml:31:9-34:52
+	android:screenOrientation
+		ADDED from [tuikit-5.1.10.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ae4eece348cb176ea52d039276638a10\AndroidManifest.xml:34:13-49
+	android:launchMode
+		ADDED from [tuikit-5.1.10.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ae4eece348cb176ea52d039276638a10\AndroidManifest.xml:33:13-48
+	android:name
+		ADDED from [tuikit-5.1.10.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ae4eece348cb176ea52d039276638a10\AndroidManifest.xml:32:13-106
+activity#com.tencent.qcloud.tim.uikit.component.SelectionActivity
+ADDED from [tuikit-5.1.10.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ae4eece348cb176ea52d039276638a10\AndroidManifest.xml:35:9-37:52
+MERGED from [:tuikit-5.1.10:] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ae4eece348cb176ea52d039276638a10\AndroidManifest.xml:35:9-37:52
+MERGED from [:tuikit-5.1.10:] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ae4eece348cb176ea52d039276638a10\AndroidManifest.xml:35:9-37:52
+	android:screenOrientation
+		ADDED from [tuikit-5.1.10.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ae4eece348cb176ea52d039276638a10\AndroidManifest.xml:37:13-49
+	android:name
+		ADDED from [tuikit-5.1.10.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ae4eece348cb176ea52d039276638a10\AndroidManifest.xml:36:13-84
+activity#com.tencent.qcloud.tim.uikit.modules.group.apply.GroupApplyManagerActivity
+ADDED from [tuikit-5.1.10.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ae4eece348cb176ea52d039276638a10\AndroidManifest.xml:38:9-41:73
+MERGED from [:tuikit-5.1.10:] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ae4eece348cb176ea52d039276638a10\AndroidManifest.xml:38:9-41:73
+MERGED from [:tuikit-5.1.10:] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ae4eece348cb176ea52d039276638a10\AndroidManifest.xml:38:9-41:73
+	android:screenOrientation
+		ADDED from [tuikit-5.1.10.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ae4eece348cb176ea52d039276638a10\AndroidManifest.xml:40:13-49
+	android:windowSoftInputMode
+		ADDED from [tuikit-5.1.10.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ae4eece348cb176ea52d039276638a10\AndroidManifest.xml:41:13-70
+	android:name
+		ADDED from [tuikit-5.1.10.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ae4eece348cb176ea52d039276638a10\AndroidManifest.xml:39:13-102
+activity#com.tencent.qcloud.tim.uikit.modules.group.apply.GroupApplyMemberActivity
+ADDED from [tuikit-5.1.10.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ae4eece348cb176ea52d039276638a10\AndroidManifest.xml:42:9-45:73
+MERGED from [:tuikit-5.1.10:] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ae4eece348cb176ea52d039276638a10\AndroidManifest.xml:42:9-45:73
+MERGED from [:tuikit-5.1.10:] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ae4eece348cb176ea52d039276638a10\AndroidManifest.xml:42:9-45:73
+	android:screenOrientation
+		ADDED from [tuikit-5.1.10.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ae4eece348cb176ea52d039276638a10\AndroidManifest.xml:44:13-49
+	android:windowSoftInputMode
+		ADDED from [tuikit-5.1.10.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ae4eece348cb176ea52d039276638a10\AndroidManifest.xml:45:13-70
+	android:name
+		ADDED from [tuikit-5.1.10.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ae4eece348cb176ea52d039276638a10\AndroidManifest.xml:43:13-101
+activity#com.tencent.liteav.SelectContactActivity
+ADDED from [tuikit-5.1.10.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ae4eece348cb176ea52d039276638a10\AndroidManifest.xml:46:9-51:63
+MERGED from [:tuikit-5.1.10:] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ae4eece348cb176ea52d039276638a10\AndroidManifest.xml:46:9-51:63
+MERGED from [:tuikit-5.1.10:] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ae4eece348cb176ea52d039276638a10\AndroidManifest.xml:46:9-51:63
+	android:screenOrientation
+		ADDED from [tuikit-5.1.10.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ae4eece348cb176ea52d039276638a10\AndroidManifest.xml:49:13-49
+	android:launchMode
+		ADDED from [tuikit-5.1.10.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ae4eece348cb176ea52d039276638a10\AndroidManifest.xml:48:13-43
+	android:windowSoftInputMode
+		ADDED from [tuikit-5.1.10.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ae4eece348cb176ea52d039276638a10\AndroidManifest.xml:51:13-60
+	android:theme
+		ADDED from [tuikit-5.1.10.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ae4eece348cb176ea52d039276638a10\AndroidManifest.xml:50:13-63
+	android:name
+		ADDED from [tuikit-5.1.10.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ae4eece348cb176ea52d039276638a10\AndroidManifest.xml:47:13-68
+activity#com.tencent.liteav.trtcaudiocalldemo.ui.TRTCAudioCallActivity
+ADDED from [tuikit-5.1.10.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ae4eece348cb176ea52d039276638a10\AndroidManifest.xml:52:9-56:66
+MERGED from [:tuikit-5.1.10:] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ae4eece348cb176ea52d039276638a10\AndroidManifest.xml:52:9-56:66
+MERGED from [:tuikit-5.1.10:] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ae4eece348cb176ea52d039276638a10\AndroidManifest.xml:52:9-56:66
+	android:screenOrientation
+		ADDED from [tuikit-5.1.10.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ae4eece348cb176ea52d039276638a10\AndroidManifest.xml:55:13-49
+	android:launchMode
+		ADDED from [tuikit-5.1.10.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ae4eece348cb176ea52d039276638a10\AndroidManifest.xml:54:13-43
+	android:theme
+		ADDED from [tuikit-5.1.10.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ae4eece348cb176ea52d039276638a10\AndroidManifest.xml:56:13-63
+	android:name
+		ADDED from [tuikit-5.1.10.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ae4eece348cb176ea52d039276638a10\AndroidManifest.xml:53:13-89
+activity#com.tencent.liteav.trtcvideocalldemo.ui.TRTCVideoCallActivity
+ADDED from [tuikit-5.1.10.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ae4eece348cb176ea52d039276638a10\AndroidManifest.xml:57:9-61:66
+MERGED from [:tuikit-5.1.10:] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ae4eece348cb176ea52d039276638a10\AndroidManifest.xml:57:9-61:66
+MERGED from [:tuikit-5.1.10:] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ae4eece348cb176ea52d039276638a10\AndroidManifest.xml:57:9-61:66
+	android:screenOrientation
+		ADDED from [tuikit-5.1.10.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ae4eece348cb176ea52d039276638a10\AndroidManifest.xml:60:13-49
+	android:launchMode
+		ADDED from [tuikit-5.1.10.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ae4eece348cb176ea52d039276638a10\AndroidManifest.xml:59:13-43
+	android:theme
+		ADDED from [tuikit-5.1.10.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ae4eece348cb176ea52d039276638a10\AndroidManifest.xml:61:13-63
+	android:name
+		ADDED from [tuikit-5.1.10.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ae4eece348cb176ea52d039276638a10\AndroidManifest.xml:58:13-89
+provider#com.tencent.qcloud.tim.uikit.utils.TUIKitFileProvider
+ADDED from [tuikit-5.1.10.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ae4eece348cb176ea52d039276638a10\AndroidManifest.xml:63:9-71:20
+MERGED from [:tuikit-5.1.10:] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ae4eece348cb176ea52d039276638a10\AndroidManifest.xml:63:9-71:20
+MERGED from [:tuikit-5.1.10:] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ae4eece348cb176ea52d039276638a10\AndroidManifest.xml:63:9-71:20
+	android:grantUriPermissions
+		ADDED from [tuikit-5.1.10.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ae4eece348cb176ea52d039276638a10\AndroidManifest.xml:67:13-47
+	android:authorities
+		ADDED from [tuikit-5.1.10.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ae4eece348cb176ea52d039276638a10\AndroidManifest.xml:65:13-70
+	android:exported
+		ADDED from [tuikit-5.1.10.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ae4eece348cb176ea52d039276638a10\AndroidManifest.xml:66:13-37
+	android:name
+		ADDED from [tuikit-5.1.10.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\ae4eece348cb176ea52d039276638a10\AndroidManifest.xml:64:13-81
+activity#io.dcloud.uniplugin.NativePageActivity
+ADDED from [:uniplugin_module] F:\Project\Android\UniPlugin-Hello-AS - 2\uniplugin_module\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:12:9-14:84
+	android:theme
+		ADDED from [:uniplugin_module] F:\Project\Android\UniPlugin-Hello-AS - 2\uniplugin_module\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:14:13-81
+	android:name
+		ADDED from [:uniplugin_module] F:\Project\Android\UniPlugin-Hello-AS - 2\uniplugin_module\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:13:13-66

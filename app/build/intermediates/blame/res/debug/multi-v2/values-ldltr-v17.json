@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "F:\\Project\\Android\\UniPlugin-Hello-AS - 2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ldltr-v17\\values-ldltr-v17.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\JackyQ\\.gradle\\caches\\transforms-2\\files-2.1\\38108b6a9590b80035ccfdaf3d7e5b82\\res\\values-ldltr-v17\\values-ldltr-v17.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "51",
+                        "endOffsets": "102"
+                    }
+                }
+            ]
+        }
+    ]
+}
