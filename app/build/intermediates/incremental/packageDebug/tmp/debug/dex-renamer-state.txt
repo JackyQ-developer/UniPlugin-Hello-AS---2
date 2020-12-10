@@ -1,4 +1,4 @@
-#Wed Dec 09 16:32:23 CST 2020
+#Thu Dec 10 15:37:27 CST 2020
 base.2=F\:\\Project\\Android\\UniPlugin-Hello-AS - 2\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\4
 base.1=F\:\\Project\\Android\\UniPlugin-Hello-AS - 2\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\9
 base.0=F\:\\Project\\Android\\UniPlugin-Hello-AS - 2\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\6
@@ -22,16 +22,19 @@ renamed.2=classes3.dex
 path.0=classes.dex
 renamed.1=classes2.dex
 renamed.0=classes.dex
+renamed.12=classes13.dex
 renamed.11=classes12.dex
 renamed.10=classes11.dex
+path.12=classes.dex
+base.12=F\:\\Project\\Android\\UniPlugin-Hello-AS - 2\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\11
 path.11=classes.dex
-base.11=F\:\\Project\\Android\\UniPlugin-Hello-AS - 2\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\8
+base.11=F\:\\Project\\Android\\UniPlugin-Hello-AS - 2\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\10
 path.10=classes.dex
-base.10=F\:\\Project\\Android\\UniPlugin-Hello-AS - 2\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\11
+base.10=F\:\\Project\\Android\\UniPlugin-Hello-AS - 2\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\8
 base.9=F\:\\Project\\Android\\UniPlugin-Hello-AS - 2\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
 base.8=F\:\\Project\\Android\\UniPlugin-Hello-AS - 2\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\3
 base.7=F\:\\Project\\Android\\UniPlugin-Hello-AS - 2\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
-base.6=F\:\\Project\\Android\\UniPlugin-Hello-AS - 2\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\10
+base.6=F\:\\Project\\Android\\UniPlugin-Hello-AS - 2\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\12
 base.5=F\:\\Project\\Android\\UniPlugin-Hello-AS - 2\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\5
 base.4=F\:\\Project\\Android\\UniPlugin-Hello-AS - 2\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\2
 base.3=F\:\\Project\\Android\\UniPlugin-Hello-AS - 2\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\7

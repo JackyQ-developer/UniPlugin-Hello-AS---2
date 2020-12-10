@@ -3,19 +3,24 @@ plugins {
 }
 
 android {
-    compileSdkVersion 30
+    compileSdkVersion 28
 
     defaultConfig {
         minSdkVersion 16
-        targetSdkVersion 30
+        targetSdkVersion 28
         versionCode 1
         versionName "1.0"
 
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+
+        ndk {
+            abiFilters "armeabi-v7a", "arm64-v8a", "x86", "x86_64"
+        }
     }
-    repositories {
-        flatDir {
-            dirs 'libs'
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
     }
 }
@@ -27,21 +32,19 @@ repositories {
 }
 
 dependencies {
-    implementation 'com.android.support.constraint:constraint-layout:2.0.4'
-
-    //noinspection GradleCompatible
-    compileOnly 'com.android.support:recyclerview-v7:28.0.0'
-    //noinspection GradleCompatible
-    compileOnly 'com.android.support:support-v4:28.0.0'
-    //noinspection GradleCompatible
-    compileOnly 'com.android.support:appcompat-v7:28.0.0'
-    compileOnly 'com.alibaba:fastjson:1.1.46.android'
+    compileOnly fileTree(dir: 'libs', include: ['*.jar'])
 
     compileOnly fileTree(dir: '../app/libs', include: ['uniapp-v8-release.aar'])
-    implementation fileTree(dir: 'libs', include: ['tuikit-5.1.10.aar'])
 
-//    api 'com.tencent.imsdk:imsdk:5.1.10'
+    compileOnly "com.android.support:recyclerview-v7:28.0.0"
+    compileOnly "com.android.support:support-v4:28.0.0"
+    compileOnly "com.android.support:appcompat-v7:28.0.0"
+    implementation 'com.alibaba:fastjson:1.1.46.android'
+    implementation 'com.facebook.fresco:fresco:1.13.0'
+//    implementation fileTree(dir: 'libs', include: ['tuikit-5.1.10.aar'])
+
+    api 'com.tencent.imsdk:imsdk:5.1.10'
 //    implementation 'com.tencent.imsdk:tuikit:5.1.10'
-    implementation(name:'tuikit-5.1.10',ext:'aar')
+//    implementation(name:'tuikit-5.1.10',ext:'aar')
 //    implementation project(':tuikit')
 }

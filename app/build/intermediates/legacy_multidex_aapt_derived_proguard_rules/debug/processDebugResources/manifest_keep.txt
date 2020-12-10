@@ -1,2 +1,2 @@
-# Referenced at F:\Project\Android\UniPlugin-Hello-AS - 2\app\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:38
+# Referenced at F:\Project\Android\UniPlugin-Hello-AS - 2\app\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:40
 -keep class io.dcloud.application.DCloudApplication { <init>(...); }
