@@ -4,6 +4,11 @@
 
     <application>
         <activity android:name=".MainActivity" />
+        <activity
+            android:name="com.example.jqplugin.ui.videocall.TRTCVideoCallActivity"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
     </application>
 
 </manifest>
