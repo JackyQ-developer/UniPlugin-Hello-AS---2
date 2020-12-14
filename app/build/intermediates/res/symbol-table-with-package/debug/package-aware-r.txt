@@ -86,6 +86,8 @@ attr backgroundStacked
 attr backgroundTint
 attr backgroundTintMode
 attr barLength
+attr barrierAllowsGoneWidgets
+attr barrierDirection
 attr borderlessButtonStyle
 attr buttonBarButtonStyle
 attr buttonBarNegativeButtonStyle
@@ -102,6 +104,7 @@ attr buttonTintMode
 attr cancelButtonBackground
 attr cancelButtonMarginTop
 attr cancelButtonTextColor
+attr chainUseRtl
 attr checkboxStyle
 attr checkedTextViewStyle
 attr closeIcon
@@ -120,6 +123,9 @@ attr colorPrimary
 attr colorPrimaryDark
 attr colorSwitchThumbNormal
 attr commitIcon
+attr constraintSet
+attr constraint_referenced_ids
+attr content
 attr contentDescription
 attr contentInsetEnd
 attr contentInsetEndWithActions
@@ -148,6 +154,7 @@ attr editTextBackground
 attr editTextColor
 attr editTextStyle
 attr elevation
+attr emptyVisibility
 attr expandActivityOverflowButtonDrawable
 attr fadeDuration
 attr failureImage
@@ -195,9 +202,59 @@ attr layoutManager
 attr layout_anchor
 attr layout_anchorGravity
 attr layout_behavior
+attr layout_constrainedHeight
+attr layout_constrainedWidth
+attr layout_constraintBaseline_creator
+attr layout_constraintBaseline_toBaselineOf
+attr layout_constraintBottom_creator
+attr layout_constraintBottom_toBottomOf
+attr layout_constraintBottom_toTopOf
+attr layout_constraintCircle
+attr layout_constraintCircleAngle
+attr layout_constraintCircleRadius
+attr layout_constraintDimensionRatio
+attr layout_constraintEnd_toEndOf
+attr layout_constraintEnd_toStartOf
+attr layout_constraintGuide_begin
+attr layout_constraintGuide_end
+attr layout_constraintGuide_percent
+attr layout_constraintHeight_default
+attr layout_constraintHeight_max
+attr layout_constraintHeight_min
+attr layout_constraintHeight_percent
+attr layout_constraintHorizontal_bias
+attr layout_constraintHorizontal_chainStyle
+attr layout_constraintHorizontal_weight
+attr layout_constraintLeft_creator
+attr layout_constraintLeft_toLeftOf
+attr layout_constraintLeft_toRightOf
+attr layout_constraintRight_creator
+attr layout_constraintRight_toLeftOf
+attr layout_constraintRight_toRightOf
+attr layout_constraintStart_toEndOf
+attr layout_constraintStart_toStartOf
+attr layout_constraintTop_creator
+attr layout_constraintTop_toBottomOf
+attr layout_constraintTop_toTopOf
+attr layout_constraintVertical_bias
+attr layout_constraintVertical_chainStyle
+attr layout_constraintVertical_weight
+attr layout_constraintWidth_default
+attr layout_constraintWidth_max
+attr layout_constraintWidth_min
+attr layout_constraintWidth_percent
 attr layout_dodgeInsetEdges
+attr layout_editor_absoluteX
+attr layout_editor_absoluteY
+attr layout_goneMarginBottom
+attr layout_goneMarginEnd
+attr layout_goneMarginLeft
+attr layout_goneMarginRight
+attr layout_goneMarginStart
+attr layout_goneMarginTop
 attr layout_insetEdge
 attr layout_keyline
+attr layout_optimizationLevel
 attr lineHeight
 attr listChoiceBackgroundIndicator
 attr listDividerAlertDialog
@@ -471,6 +528,19 @@ color switch_thumb_normal_material_dark
 color switch_thumb_normal_material_light
 color tooltip_background_dark
 color tooltip_background_light
+color trtccalling_color_background
+color trtccalling_color_bg_cl_search
+color trtccalling_color_bg_gradient_end
+color trtccalling_color_btn_disable
+color trtccalling_color_btn_enable
+color trtccalling_color_edit_hint
+color trtccalling_color_head_background
+color trtccalling_color_primary
+color trtccalling_color_shade
+color trtccalling_color_text_tips
+color trtccalling_color_white
+color trtccalling_text_second
+color ttrtccalling_color_bg_gradient_start
 dimen abc_action_bar_content_inset_material
 dimen abc_action_bar_content_inset_with_nav
 dimen abc_action_bar_default_height_material
@@ -598,6 +668,10 @@ dimen tooltip_precise_anchor_threshold
 dimen tooltip_vertical_padding
 dimen tooltip_y_offset_non_touch
 dimen tooltip_y_offset_touch
+dimen trtccalling_small_image_left_margin
+dimen trtccalling_small_image_size
+dimen trtccalling_text_size_large
+dimen trtccalling_text_size_middle
 drawable abc_ab_share_pack_mtrl_alpha
 drawable abc_action_bar_item_background_material
 drawable abc_btn_borderless_material
@@ -774,6 +848,31 @@ drawable sidebar_shortcut
 drawable toast_bg
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
+drawable trtccalling_audio_input_display
+drawable trtccalling_bg_button_border
+drawable trtccalling_bg_dialing
+drawable trtccalling_bg_divider
+drawable trtccalling_bg_handsfree
+drawable trtccalling_bg_hangup
+drawable trtccalling_bg_main_gradient
+drawable trtccalling_bg_mute_mic
+drawable trtccalling_ic_avatar
+drawable trtccalling_ic_back
+drawable trtccalling_ic_dialing
+drawable trtccalling_ic_dialing_pressed
+drawable trtccalling_ic_handsfree_disable
+drawable trtccalling_ic_handsfree_enable
+drawable trtccalling_ic_hangup
+drawable trtccalling_ic_hangup_pressed
+drawable trtccalling_ic_mutemic_disable
+drawable trtccalling_ic_mutemic_enable
+drawable trtccalling_ic_select_off
+drawable trtccalling_ic_select_on
+drawable trtccalling_icon_clear_search
+drawable trtccalling_icon_contacts_search
+drawable trtccalling_icon_search
+drawable trtccalling_icon_selector
+drawable trtccalling_wait_background
 drawable weex_error
 id ALT
 id CTRL
@@ -816,6 +915,7 @@ id all
 id always
 id async
 id back
+id barrier
 id beginning
 id bgImg
 id blocking
@@ -829,6 +929,7 @@ id centerCrop
 id centerInside
 id center_horizontal
 id center_vertical
+id chains
 id checkbox
 id chronometer
 id clip_horizontal
@@ -874,6 +975,8 @@ id debugTV
 id decor_content_parent
 id default_activity_button
 id delete
+id dimensions
+id direct
 id disableHome
 id edit_query
 id end
@@ -889,11 +992,18 @@ id fitCenter
 id fitEnd
 id fitStart
 id fitXY
+id fl_no_video
 id focusCrop
 id forever
+id gl_horizontal_bottom
+id gl_horizontal_top
 id glide_custom_view_target_tag
+id gone
 id gridGallery
 id group_divider
+id group_inviting
+id group_sponsor
+id groups
 id guide_title
 id home
 id homeAsUp
@@ -905,16 +1015,28 @@ id imgNoMedia
 id imgQueue
 id imgQueueMask
 id info
+id invisible
 id italic
 id itemBadge
 id itemDot
 id item_touch_helper_previous_elevation
+id iv_avatar
+id iv_dialing
+id iv_handsfree
+id iv_hangup
+id iv_mute
+id iv_sponsor_avatar
 id left
 id leftLayout
 id line1
 id line3
 id listMode
 id list_item
+id ll_dialing
+id ll_handsfree
+id ll_hangup
+id ll_img_container
+id ll_mute
 id ll_title_bar
 id logs
 id media_actions
@@ -929,9 +1051,13 @@ id normal
 id notification_background
 id notification_main_column
 id notification_main_column_container
+id packed
 id pager
+id parent
 id parentPanel
+id percent
 id progressBar
+id progress_bar_audio
 id progress_circular
 id progress_horizontal
 id query_page
@@ -959,6 +1085,7 @@ id search_src_text
 id search_voice_btn
 id select_dialog_listview
 id set_priority
+id shade_sponsor
 id shortcut
 id showCustom
 id showHome
@@ -974,9 +1101,12 @@ id sideBarReFreshLayout
 id sideBarShareLayout
 id spacer
 id split_action_bar
+id spread
+id spread_inside
 id src_atop
 id src_in
 id src_over
+id standard
 id start
 id start_manage
 id status_bar_latest_event_content
@@ -1007,12 +1137,20 @@ id titleDividerNoCustom
 id title_template
 id top
 id topPanel
+id trtc_layout_manager
+id trtc_tc_cloud_view
 id tvTitleText
+id tv_inviting_tag
+id tv_sponsor_user_name
+id tv_sponsor_video_tag
+id tv_time
+id tv_user_name
 id uniform
 id up
 id useLogo
 id webview
 id withText
+id wrap
 id wrap_content
 integer abc_config_activityDefaultDur
 integer abc_config_activityShortDur
@@ -1092,6 +1230,8 @@ layout select_dialog_multichoice_material
 layout select_dialog_singlechoice_material
 layout side_bar_layout
 layout support_simple_spinner_dropdown_item
+layout trtccalling_videocall_activity_call_main
+layout trtccalling_videocall_item_user_layout
 layout webview_layout
 layout weex_recycler_layout
 string abc_action_bar_home_description
@@ -1147,8 +1287,40 @@ string in_package
 string search_menu_title
 string status_bar_notification_info_overflow
 string stream_my
+string trtccalling_audio_call
+string trtccalling_call_self_format
+string trtccalling_call_time_default
+string trtccalling_called_time_format
+string trtccalling_complete
+string trtccalling_contact_default_name
+string trtccalling_invite_video_call
+string trtccalling_inviting_tag
+string trtccalling_search
+string trtccalling_search_call_hint
+string trtccalling_self_phone
+string trtccalling_start_call
+string trtccalling_tips_search
+string trtccalling_tips_start_call
+string trtccalling_title_recent_search
+string trtccalling_title_search_result
+string trtccalling_title_video_call
+string trtccalling_toast_call_error_msg
+string trtccalling_toast_disable_mute
+string trtccalling_toast_enable_mute
+string trtccalling_toast_not_add_self
+string trtccalling_toast_search_fail
+string trtccalling_toast_use_handset
+string trtccalling_toast_use_speaker
+string trtccalling_toast_user_busy
+string trtccalling_toast_user_cancel_call
+string trtccalling_toast_user_end
+string trtccalling_toast_user_not_response
+string trtccalling_toast_user_reject_call
+string trtccalling_toast_user_timeout
+string trtccalling_video_call
 style ActionSheetStyleIOS6
 style ActionSheetStyleIOS7
+style ActivityTranslucent
 style AlertDialog_AppCompat
 style AlertDialog_AppCompat_Light
 style Animation_AppCompat_Dialog
@@ -1312,6 +1484,7 @@ style Base_Widget_AppCompat_Toolbar_Button_Navigation
 style DCloudTheme
 style DeviceDefault
 style DeviceDefault_Light
+style DialogTransparent
 style NotificationText
 style NotificationText_Dark
 style NotificationTitle
@@ -1535,6 +1708,9 @@ styleable AppCompatTheme android_windowIsFloating android_windowAnimationStyle a
 styleable ButtonBarLayout allowStacking
 styleable ColorStateListItem android_color android_alpha alpha
 styleable CompoundButton android_button buttonTint buttonTintMode
+styleable ConstraintLayout_Layout android_orientation android_maxWidth android_maxHeight android_minWidth android_minHeight barrierAllowsGoneWidgets barrierDirection chainUseRtl constraintSet constraint_referenced_ids layout_constrainedHeight layout_constrainedWidth layout_constraintBaseline_creator layout_constraintBaseline_toBaselineOf layout_constraintBottom_creator layout_constraintBottom_toBottomOf layout_constraintBottom_toTopOf layout_constraintCircle layout_constraintCircleAngle layout_constraintCircleRadius layout_constraintDimensionRatio layout_constraintEnd_toEndOf layout_constraintEnd_toStartOf layout_constraintGuide_begin layout_constraintGuide_end layout_constraintGuide_percent layout_constraintHeight_default layout_constraintHeight_max layout_constraintHeight_min layout_constraintHeight_percent layout_constraintHorizontal_bias layout_constraintHorizontal_chainStyle layout_constraintHorizontal_weight layout_constraintLeft_creator layout_constraintLeft_toLeftOf layout_constraintLeft_toRightOf layout_constraintRight_creator layout_constraintRight_toLeftOf layout_constraintRight_toRightOf layout_constraintStart_toEndOf layout_constraintStart_toStartOf layout_constraintTop_creator layout_constraintTop_toBottomOf layout_constraintTop_toTopOf layout_constraintVertical_bias layout_constraintVertical_chainStyle layout_constraintVertical_weight layout_constraintWidth_default layout_constraintWidth_max layout_constraintWidth_min layout_constraintWidth_percent layout_editor_absoluteX layout_editor_absoluteY layout_goneMarginBottom layout_goneMarginEnd layout_goneMarginLeft layout_goneMarginRight layout_goneMarginStart layout_goneMarginTop layout_optimizationLevel
+styleable ConstraintLayout_placeholder content emptyVisibility
+styleable ConstraintSet android_orientation android_id android_visibility android_layout_width android_layout_height android_layout_marginLeft android_layout_marginTop android_layout_marginRight android_layout_marginBottom android_maxWidth android_maxHeight android_minWidth android_minHeight android_alpha android_transformPivotX android_transformPivotY android_translationX android_translationY android_scaleX android_scaleY android_rotation android_rotationX android_rotationY android_layout_marginStart android_layout_marginEnd android_translationZ android_elevation barrierAllowsGoneWidgets barrierDirection chainUseRtl constraint_referenced_ids layout_constrainedHeight layout_constrainedWidth layout_constraintBaseline_creator layout_constraintBaseline_toBaselineOf layout_constraintBottom_creator layout_constraintBottom_toBottomOf layout_constraintBottom_toTopOf layout_constraintCircle layout_constraintCircleAngle layout_constraintCircleRadius layout_constraintDimensionRatio layout_constraintEnd_toEndOf layout_constraintEnd_toStartOf layout_constraintGuide_begin layout_constraintGuide_end layout_constraintGuide_percent layout_constraintHeight_default layout_constraintHeight_max layout_constraintHeight_min layout_constraintHeight_percent layout_constraintHorizontal_bias layout_constraintHorizontal_chainStyle layout_constraintHorizontal_weight layout_constraintLeft_creator layout_constraintLeft_toLeftOf layout_constraintLeft_toRightOf layout_constraintRight_creator layout_constraintRight_toLeftOf layout_constraintRight_toRightOf layout_constraintStart_toEndOf layout_constraintStart_toStartOf layout_constraintTop_creator layout_constraintTop_toBottomOf layout_constraintTop_toTopOf layout_constraintVertical_bias layout_constraintVertical_chainStyle layout_constraintVertical_weight layout_constraintWidth_default layout_constraintWidth_max layout_constraintWidth_min layout_constraintWidth_percent layout_editor_absoluteX layout_editor_absoluteY layout_goneMarginBottom layout_goneMarginEnd layout_goneMarginLeft layout_goneMarginRight layout_goneMarginStart layout_goneMarginTop
 styleable CoordinatorLayout keylines statusBarBackground
 styleable CoordinatorLayout_Layout android_layout_gravity layout_anchor layout_anchorGravity layout_behavior layout_dodgeInsetEdges layout_insetEdge layout_keyline
 styleable DrawerArrowToggle arrowHeadLength arrowShaftLength barLength color drawableSize gapBetweenBars spinBars thickness
@@ -1546,6 +1722,7 @@ styleable GifTextureView gifSource isOpaque
 styleable GifView freezesAnimation loopCount
 styleable GradientColor android_startColor android_endColor android_type android_centerX android_centerY android_gradientRadius android_tileMode android_centerColor android_startX android_startY android_endX android_endY
 styleable GradientColorItem android_color android_offset
+styleable LinearConstraintLayout android_orientation
 styleable LinearLayoutCompat android_gravity android_orientation android_baselineAligned android_baselineAlignedChildIndex android_weightSum divider dividerPadding measureWithLargestChild showDividers
 styleable LinearLayoutCompat_Layout android_layout_gravity android_layout_width android_layout_height android_layout_weight
 styleable ListPopupWindow android_dropDownHorizontalOffset android_dropDownVerticalOffset
@@ -1569,3 +1746,4 @@ styleable View android_theme android_focusable paddingEnd paddingStart theme
 styleable ViewBackgroundHelper android_background backgroundTint backgroundTintMode
 styleable ViewStubCompat android_id android_layout android_inflatedId
 xml dcloud_file_provider
+xml util_code_provider_paths

@@ -14,7 +14,7 @@ MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\JackyQ\.gradle\ca
 MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\11a73a8ab4c8b9337a4ce020b24970d2\AndroidManifest.xml:17:1-22:12
 MERGED from [:uniplugin_component] F:\Project\Android\UniPlugin-Hello-AS - 2\uniplugin_component\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-11:12
 MERGED from [:uniplugin_module] F:\Project\Android\UniPlugin-Hello-AS - 2\uniplugin_module\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-17:12
-MERGED from [:jqplugin_trtc] F:\Project\Android\UniPlugin-Hello-AS - 2\jqplugin_trtc\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-15:12
+MERGED from [:jqplugin_trtc] F:\Project\Android\UniPlugin-Hello-AS - 2\jqplugin_trtc\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-20:12
 MERGED from [com.facebook.fresco:fresco:1.13.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\dd780e36dd62fb4b71bdb567b3012ceb\AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.fresco:animated-gif:1.13.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\600375539b408496e8c7c208702cd506\AndroidManifest.xml:2:1-9:12
 MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\c33198159582c5dd4aa888f9295420f9\AndroidManifest.xml:2:1-12:12
@@ -37,12 +37,14 @@ MERGED from [com.android.support:support-compat:28.0.0] C:\Users\JackyQ\.gradle\
 MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\61c2c86bf65a2bf60b73a98a73710096\AndroidManifest.xml:17:1-25:12
 MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\eeb75629d5dafa12f9dbcf307b3afc01\AndroidManifest.xml:17:1-22:12
 MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\d18f2d9c2ca8741824cfea67b08f13fd\AndroidManifest.xml:2:1-11:12
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\b24998a5270a7d14b0e1c6c4e8bff094\AndroidManifest.xml:2:1-14:12
 MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\6134c70cfdcbf984dfe2e2b41493d5bb\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:documentfile:28.0.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\7d32646b2d2395ae65651e877be45119\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\22c7e522d98fb2c4f23ceffd40e2b174\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:print:28.0.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\01ccf1a63de78015d0cb0bc1449bfeb4\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:interpolator:28.0.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\97f3f8ad2cfcb20a92363237f714104b\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\db8b0ff8bcaa1125d9a144887a43ad41\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\296305d367c538ec0248917e094f5310\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\d4be5bf98a51baabb9a92b6d87bd5846\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\6ffe8101f0401f1ca979830c17eafbd5\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.1] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\995d840cf8150ba1f76cab6fc810eadb\AndroidManifest.xml:17:1-22:12
@@ -55,7 +57,10 @@ MERGED from [com.facebook.fresco:nativeimagetranscoder:1.13.0] C:\Users\JackyQ\.
 MERGED from [com.facebook.fresco:imagepipeline-base:1.13.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\dc2d3ed686ff054e60aaa34d0e18eb23\AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.fresco:fbcore:1.13.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\4355e03f26fe54a7b1f8ff5d0b9444e1\AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\157e97e2a9231a5803e8cad49914e26b\AndroidManifest.xml:2:1-13:12
-MERGED from [com.tencent.imsdk:imsdk:5.1.10] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\1d239a3aca7f94ad6d02f153660f8b8a\AndroidManifest.xml:2:1-22:12
+MERGED from [com.tencent.imsdk:imsdk:4.9.1] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\a4c697b3141496ed15b111e27da9ca01\AndroidManifest.xml:2:1-23:12
+MERGED from [com.tencent.liteav:LiteAVSDK_TRTC:8.1.9717] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\56abde39195a42dc46000abbb174f60f\AndroidManifest.xml:2:1-35:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\5d177566fa5e4d2bdbf1e32af3ff1e9d\AndroidManifest.xml:2:1-11:12
+MERGED from [com.blankj:utilcode:1.25.9] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\5a9c043b66b6d94bfc7621193425a45d\AndroidManifest.xml:2:1-35:12
 INJECTED from F:\Project\Android\UniPlugin-Hello-AS - 2\app\src\main\AndroidManifest.xml:2:1-96:12
 INJECTED from F:\Project\Android\UniPlugin-Hello-AS - 2\app\src\main\AndroidManifest.xml:2:1-96:12
 INJECTED from F:\Project\Android\UniPlugin-Hello-AS - 2\app\src\main\AndroidManifest.xml:2:1-96:12
@@ -89,12 +94,16 @@ MERGED from [lib.5plus.base-release.aar] C:\Users\JackyQ\.gradle\caches\transfor
 		ADDED from F:\Project\Android\UniPlugin-Hello-AS - 2\app\src\main\AndroidManifest.xml:6:9-34
 uses-permission#android.permission.CAMERA
 ADDED from F:\Project\Android\UniPlugin-Hello-AS - 2\app\src\main\AndroidManifest.xml:13:5-65
+MERGED from [com.tencent.liteav:LiteAVSDK_TRTC:8.1.9717] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\56abde39195a42dc46000abbb174f60f\AndroidManifest.xml:21:5-65
+MERGED from [com.tencent.liteav:LiteAVSDK_TRTC:8.1.9717] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\56abde39195a42dc46000abbb174f60f\AndroidManifest.xml:21:5-65
 	android:name
 		ADDED from F:\Project\Android\UniPlugin-Hello-AS - 2\app\src\main\AndroidManifest.xml:13:22-62
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
 ADDED from F:\Project\Android\UniPlugin-Hello-AS - 2\app\src\main\AndroidManifest.xml:14:5-81
 MERGED from [lib.5plus.base-release.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\e752cf6ad9e81ff93890db2f1d8fa99a\AndroidManifest.xml:16:5-81
 MERGED from [lib.5plus.base-release.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\e752cf6ad9e81ff93890db2f1d8fa99a\AndroidManifest.xml:16:5-81
+MERGED from [com.tencent.liteav:LiteAVSDK_TRTC:8.1.9717] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\56abde39195a42dc46000abbb174f60f\AndroidManifest.xml:18:5-81
+MERGED from [com.tencent.liteav:LiteAVSDK_TRTC:8.1.9717] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\56abde39195a42dc46000abbb174f60f\AndroidManifest.xml:18:5-81
 	android:name
 		ADDED from F:\Project\Android\UniPlugin-Hello-AS - 2\app\src\main\AndroidManifest.xml:14:22-78
 uses-feature#android.hardware.camera
@@ -121,8 +130,8 @@ MERGED from [uniapp-v8-release.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\
 MERGED from [uniapp-v8-release.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\38108b6a9590b80035ccfdaf3d7e5b82\AndroidManifest.xml:29:5-35:19
 MERGED from [:uniplugin_module] F:\Project\Android\UniPlugin-Hello-AS - 2\uniplugin_module\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:11:5-15:19
 MERGED from [:uniplugin_module] F:\Project\Android\UniPlugin-Hello-AS - 2\uniplugin_module\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:11:5-15:19
-MERGED from [:jqplugin_trtc] F:\Project\Android\UniPlugin-Hello-AS - 2\jqplugin_trtc\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:11:5-13:19
-MERGED from [:jqplugin_trtc] F:\Project\Android\UniPlugin-Hello-AS - 2\jqplugin_trtc\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:11:5-13:19
+MERGED from [:jqplugin_trtc] F:\Project\Android\UniPlugin-Hello-AS - 2\jqplugin_trtc\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:11:5-18:19
+MERGED from [:jqplugin_trtc] F:\Project\Android\UniPlugin-Hello-AS - 2\jqplugin_trtc\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:11:5-18:19
 MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\c33198159582c5dd4aa888f9295420f9\AndroidManifest.xml:10:5-20
 MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\c33198159582c5dd4aa888f9295420f9\AndroidManifest.xml:10:5-20
 MERGED from [com.android.support:support-compat:28.0.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\25c79e47bdb8d792890f360de5dc59ca\AndroidManifest.xml:22:5-94
@@ -131,10 +140,18 @@ MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\JackyQ\.gr
 MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\61c2c86bf65a2bf60b73a98a73710096\AndroidManifest.xml:22:5-23:19
 MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\d18f2d9c2ca8741824cfea67b08f13fd\AndroidManifest.xml:9:5-20
 MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\d18f2d9c2ca8741824cfea67b08f13fd\AndroidManifest.xml:9:5-20
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\b24998a5270a7d14b0e1c6c4e8bff094\AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\b24998a5270a7d14b0e1c6c4e8bff094\AndroidManifest.xml:7:5-12:19
 MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\157e97e2a9231a5803e8cad49914e26b\AndroidManifest.xml:11:5-20
 MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\157e97e2a9231a5803e8cad49914e26b\AndroidManifest.xml:11:5-20
-MERGED from [com.tencent.imsdk:imsdk:5.1.10] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\1d239a3aca7f94ad6d02f153660f8b8a\AndroidManifest.xml:16:5-20:19
-MERGED from [com.tencent.imsdk:imsdk:5.1.10] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\1d239a3aca7f94ad6d02f153660f8b8a\AndroidManifest.xml:16:5-20:19
+MERGED from [com.tencent.imsdk:imsdk:4.9.1] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\a4c697b3141496ed15b111e27da9ca01\AndroidManifest.xml:16:5-21:19
+MERGED from [com.tencent.imsdk:imsdk:4.9.1] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\a4c697b3141496ed15b111e27da9ca01\AndroidManifest.xml:16:5-21:19
+MERGED from [com.tencent.liteav:LiteAVSDK_TRTC:8.1.9717] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\56abde39195a42dc46000abbb174f60f\AndroidManifest.xml:29:5-33:19
+MERGED from [com.tencent.liteav:LiteAVSDK_TRTC:8.1.9717] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\56abde39195a42dc46000abbb174f60f\AndroidManifest.xml:29:5-33:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\5d177566fa5e4d2bdbf1e32af3ff1e9d\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\5d177566fa5e4d2bdbf1e32af3ff1e9d\AndroidManifest.xml:9:5-20
+MERGED from [com.blankj:utilcode:1.25.9] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\5a9c043b66b6d94bfc7621193425a45d\AndroidManifest.xml:9:5-33:19
+MERGED from [com.blankj:utilcode:1.25.9] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\5a9c043b66b6d94bfc7621193425a45d\AndroidManifest.xml:9:5-33:19
 	android:appComponentFactory
 		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\25c79e47bdb8d792890f360de5dc59ca\AndroidManifest.xml:22:18-91
 	android:supportsRtl
@@ -313,6 +330,8 @@ MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\JackyQ\.gradle\c
 MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\eeb75629d5dafa12f9dbcf307b3afc01\AndroidManifest.xml:20:5-44
 MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\d18f2d9c2ca8741824cfea67b08f13fd\AndroidManifest.xml:5:5-7:41
 MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\d18f2d9c2ca8741824cfea67b08f13fd\AndroidManifest.xml:5:5-7:41
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\b24998a5270a7d14b0e1c6c4e8bff094\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\b24998a5270a7d14b0e1c6c4e8bff094\AndroidManifest.xml:5:5-44
 MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\6134c70cfdcbf984dfe2e2b41493d5bb\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\6134c70cfdcbf984dfe2e2b41493d5bb\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:documentfile:28.0.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\7d32646b2d2395ae65651e877be45119\AndroidManifest.xml:20:5-44
@@ -325,6 +344,8 @@ MERGED from [com.android.support:interpolator:28.0.0] C:\Users\JackyQ\.gradle\ca
 MERGED from [com.android.support:interpolator:28.0.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\97f3f8ad2cfcb20a92363237f714104b\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\db8b0ff8bcaa1125d9a144887a43ad41\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\db8b0ff8bcaa1125d9a144887a43ad41\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\296305d367c538ec0248917e094f5310\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\296305d367c538ec0248917e094f5310\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\d4be5bf98a51baabb9a92b6d87bd5846\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\d4be5bf98a51baabb9a92b6d87bd5846\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\6ffe8101f0401f1ca979830c17eafbd5\AndroidManifest.xml:20:5-44
@@ -349,8 +370,14 @@ MERGED from [com.facebook.fresco:fbcore:1.13.0] C:\Users\JackyQ\.gradle\caches\t
 MERGED from [com.facebook.fresco:fbcore:1.13.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\4355e03f26fe54a7b1f8ff5d0b9444e1\AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\157e97e2a9231a5803e8cad49914e26b\AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\157e97e2a9231a5803e8cad49914e26b\AndroidManifest.xml:7:5-9:41
-MERGED from [com.tencent.imsdk:imsdk:5.1.10] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\1d239a3aca7f94ad6d02f153660f8b8a\AndroidManifest.xml:7:5-9:41
-MERGED from [com.tencent.imsdk:imsdk:5.1.10] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\1d239a3aca7f94ad6d02f153660f8b8a\AndroidManifest.xml:7:5-9:41
+MERGED from [com.tencent.imsdk:imsdk:4.9.1] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\a4c697b3141496ed15b111e27da9ca01\AndroidManifest.xml:7:5-9:41
+MERGED from [com.tencent.imsdk:imsdk:4.9.1] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\a4c697b3141496ed15b111e27da9ca01\AndroidManifest.xml:7:5-9:41
+MERGED from [com.tencent.liteav:LiteAVSDK_TRTC:8.1.9717] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\56abde39195a42dc46000abbb174f60f\AndroidManifest.xml:7:5-9:41
+MERGED from [com.tencent.liteav:LiteAVSDK_TRTC:8.1.9717] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\56abde39195a42dc46000abbb174f60f\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\5d177566fa5e4d2bdbf1e32af3ff1e9d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\5d177566fa5e4d2bdbf1e32af3ff1e9d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.blankj:utilcode:1.25.9] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\5a9c043b66b6d94bfc7621193425a45d\AndroidManifest.xml:7:5-44
+MERGED from [com.blankj:utilcode:1.25.9] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\5a9c043b66b6d94bfc7621193425a45d\AndroidManifest.xml:7:5-44
 INJECTED from F:\Project\Android\UniPlugin-Hello-AS - 2\app\src\main\AndroidManifest.xml
 INJECTED from F:\Project\Android\UniPlugin-Hello-AS - 2\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
@@ -365,16 +392,20 @@ uses-permission#android.permission.INTERNET
 ADDED from [lib.5plus.base-release.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\e752cf6ad9e81ff93890db2f1d8fa99a\AndroidManifest.xml:17:5-67
 MERGED from [msa_mdid_1.0.13.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\98b767a89381834b0fc2bb0516558970\AndroidManifest.xml:6:5-67
 MERGED from [msa_mdid_1.0.13.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\98b767a89381834b0fc2bb0516558970\AndroidManifest.xml:6:5-67
-MERGED from [com.tencent.imsdk:imsdk:5.1.10] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\1d239a3aca7f94ad6d02f153660f8b8a\AndroidManifest.xml:12:5-67
-MERGED from [com.tencent.imsdk:imsdk:5.1.10] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\1d239a3aca7f94ad6d02f153660f8b8a\AndroidManifest.xml:12:5-67
+MERGED from [com.tencent.imsdk:imsdk:4.9.1] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\a4c697b3141496ed15b111e27da9ca01\AndroidManifest.xml:12:5-67
+MERGED from [com.tencent.imsdk:imsdk:4.9.1] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\a4c697b3141496ed15b111e27da9ca01\AndroidManifest.xml:12:5-67
+MERGED from [com.tencent.liteav:LiteAVSDK_TRTC:8.1.9717] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\56abde39195a42dc46000abbb174f60f\AndroidManifest.xml:12:5-67
+MERGED from [com.tencent.liteav:LiteAVSDK_TRTC:8.1.9717] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\56abde39195a42dc46000abbb174f60f\AndroidManifest.xml:12:5-67
 	android:name
 		ADDED from [lib.5plus.base-release.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\e752cf6ad9e81ff93890db2f1d8fa99a\AndroidManifest.xml:17:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from [lib.5plus.base-release.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\e752cf6ad9e81ff93890db2f1d8fa99a\AndroidManifest.xml:18:5-79
 MERGED from [msa_mdid_1.0.13.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\98b767a89381834b0fc2bb0516558970\AndroidManifest.xml:4:5-79
 MERGED from [msa_mdid_1.0.13.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\98b767a89381834b0fc2bb0516558970\AndroidManifest.xml:4:5-79
-MERGED from [com.tencent.imsdk:imsdk:5.1.10] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\1d239a3aca7f94ad6d02f153660f8b8a\AndroidManifest.xml:13:5-79
-MERGED from [com.tencent.imsdk:imsdk:5.1.10] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\1d239a3aca7f94ad6d02f153660f8b8a\AndroidManifest.xml:13:5-79
+MERGED from [com.tencent.imsdk:imsdk:4.9.1] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\a4c697b3141496ed15b111e27da9ca01\AndroidManifest.xml:13:5-79
+MERGED from [com.tencent.imsdk:imsdk:4.9.1] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\a4c697b3141496ed15b111e27da9ca01\AndroidManifest.xml:13:5-79
+MERGED from [com.tencent.liteav:LiteAVSDK_TRTC:8.1.9717] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\56abde39195a42dc46000abbb174f60f\AndroidManifest.xml:14:5-79
+MERGED from [com.tencent.liteav:LiteAVSDK_TRTC:8.1.9717] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\56abde39195a42dc46000abbb174f60f\AndroidManifest.xml:14:5-79
 	android:name
 		ADDED from [lib.5plus.base-release.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\e752cf6ad9e81ff93890db2f1d8fa99a\AndroidManifest.xml:18:22-76
 uses-permission#com.huawei.android.launcher.permission.CHANGE_BADGE
@@ -491,6 +522,8 @@ ADDED from [lib.5plus.base-release.aar] C:\Users\JackyQ\.gradle\caches\transform
 		ADDED from [lib.5plus.base-release.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\e752cf6ad9e81ff93890db2f1d8fa99a\AndroidManifest.xml:237:13-46
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
 IMPLIED from F:\Project\Android\UniPlugin-Hello-AS - 2\app\src\main\AndroidManifest.xml:2:1-96:12 reason: io.dcloud.base requested WRITE_EXTERNAL_STORAGE
+MERGED from [com.tencent.liteav:LiteAVSDK_TRTC:8.1.9717] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\56abde39195a42dc46000abbb174f60f\AndroidManifest.xml:19:5-80
+MERGED from [com.tencent.liteav:LiteAVSDK_TRTC:8.1.9717] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\56abde39195a42dc46000abbb174f60f\AndroidManifest.xml:19:5-80
 uses-permission#android.permission.READ_PHONE_STATE
 ADDED from [msa_mdid_1.0.13.aar] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\98b767a89381834b0fc2bb0516558970\AndroidManifest.xml:5:5-75
 	android:name
@@ -517,11 +550,83 @@ activity#com.example.jqplugin.MainActivity
 ADDED from [:jqplugin_trtc] F:\Project\Android\UniPlugin-Hello-AS - 2\jqplugin_trtc\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:12:9-70
 	android:name
 		ADDED from [:jqplugin_trtc] F:\Project\Android\UniPlugin-Hello-AS - 2\jqplugin_trtc\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:12:19-67
+activity#com.example.jqplugin.ui.videocall.TRTCVideoCallActivity
+ADDED from [:jqplugin_trtc] F:\Project\Android\UniPlugin-Hello-AS - 2\jqplugin_trtc\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:13:9-17:66
+	android:screenOrientation
+		ADDED from [:jqplugin_trtc] F:\Project\Android\UniPlugin-Hello-AS - 2\jqplugin_trtc\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:16:13-49
+	android:launchMode
+		ADDED from [:jqplugin_trtc] F:\Project\Android\UniPlugin-Hello-AS - 2\jqplugin_trtc\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:15:13-43
+	android:theme
+		ADDED from [:jqplugin_trtc] F:\Project\Android\UniPlugin-Hello-AS - 2\jqplugin_trtc\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:17:13-63
+	android:name
+		ADDED from [:jqplugin_trtc] F:\Project\Android\UniPlugin-Hello-AS - 2\jqplugin_trtc\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:14:13-83
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\b24998a5270a7d14b0e1c6c4e8bff094\AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\b24998a5270a7d14b0e1c6c4e8bff094\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\b24998a5270a7d14b0e1c6c4e8bff094\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\b24998a5270a7d14b0e1c6c4e8bff094\AndroidManifest.xml:9:13-64
 uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
-ADDED from [com.tencent.imsdk:imsdk:5.1.10] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\1d239a3aca7f94ad6d02f153660f8b8a\AndroidManifest.xml:11:5-81
+ADDED from [com.tencent.imsdk:imsdk:4.9.1] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\a4c697b3141496ed15b111e27da9ca01\AndroidManifest.xml:11:5-81
 	android:name
-		ADDED from [com.tencent.imsdk:imsdk:5.1.10] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\1d239a3aca7f94ad6d02f153660f8b8a\AndroidManifest.xml:11:22-78
+		ADDED from [com.tencent.imsdk:imsdk:4.9.1] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\a4c697b3141496ed15b111e27da9ca01\AndroidManifest.xml:11:22-78
 uses-permission#android.permission.ACCESS_WIFI_STATE
-ADDED from [com.tencent.imsdk:imsdk:5.1.10] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\1d239a3aca7f94ad6d02f153660f8b8a\AndroidManifest.xml:14:5-76
+ADDED from [com.tencent.imsdk:imsdk:4.9.1] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\a4c697b3141496ed15b111e27da9ca01\AndroidManifest.xml:14:5-76
+MERGED from [com.tencent.liteav:LiteAVSDK_TRTC:8.1.9717] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\56abde39195a42dc46000abbb174f60f\AndroidManifest.xml:16:5-76
+MERGED from [com.tencent.liteav:LiteAVSDK_TRTC:8.1.9717] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\56abde39195a42dc46000abbb174f60f\AndroidManifest.xml:16:5-76
 	android:name
-		ADDED from [com.tencent.imsdk:imsdk:5.1.10] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\1d239a3aca7f94ad6d02f153660f8b8a\AndroidManifest.xml:14:22-73
+		ADDED from [com.tencent.imsdk:imsdk:4.9.1] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\a4c697b3141496ed15b111e27da9ca01\AndroidManifest.xml:14:22-73
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from [com.tencent.liteav:LiteAVSDK_TRTC:8.1.9717] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\56abde39195a42dc46000abbb174f60f\AndroidManifest.xml:23:5-71
+	android:name
+		ADDED from [com.tencent.liteav:LiteAVSDK_TRTC:8.1.9717] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\56abde39195a42dc46000abbb174f60f\AndroidManifest.xml:23:22-68
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from [com.tencent.liteav:LiteAVSDK_TRTC:8.1.9717] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\56abde39195a42dc46000abbb174f60f\AndroidManifest.xml:25:5-80
+	android:name
+		ADDED from [com.tencent.liteav:LiteAVSDK_TRTC:8.1.9717] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\56abde39195a42dc46000abbb174f60f\AndroidManifest.xml:25:22-77
+uses-permission#android.permission.BLUETOOTH
+ADDED from [com.tencent.liteav:LiteAVSDK_TRTC:8.1.9717] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\56abde39195a42dc46000abbb174f60f\AndroidManifest.xml:27:5-68
+	android:name
+		ADDED from [com.tencent.liteav:LiteAVSDK_TRTC:8.1.9717] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\56abde39195a42dc46000abbb174f60f\AndroidManifest.xml:27:22-65
+activity#com.blankj.utilcode.util.PermissionUtils$PermissionActivity
+ADDED from [com.blankj:utilcode:1.25.9] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\5a9c043b66b6d94bfc7621193425a45d\AndroidManifest.xml:10:9-15:75
+	android:multiprocess
+		ADDED from [com.blankj:utilcode:1.25.9] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\5a9c043b66b6d94bfc7621193425a45d\AndroidManifest.xml:13:13-40
+	android:windowSoftInputMode
+		ADDED from [com.blankj:utilcode:1.25.9] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\5a9c043b66b6d94bfc7621193425a45d\AndroidManifest.xml:15:13-72
+	android:configChanges
+		ADDED from [com.blankj:utilcode:1.25.9] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\5a9c043b66b6d94bfc7621193425a45d\AndroidManifest.xml:12:13-74
+	android:theme
+		ADDED from [com.blankj:utilcode:1.25.9] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\5a9c043b66b6d94bfc7621193425a45d\AndroidManifest.xml:14:13-55
+	android:name
+		ADDED from [com.blankj:utilcode:1.25.9] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\5a9c043b66b6d94bfc7621193425a45d\AndroidManifest.xml:11:13-87
+provider#com.blankj.utilcode.util.Utils$FileProvider4UtilCode
+ADDED from [com.blankj:utilcode:1.25.9] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\5a9c043b66b6d94bfc7621193425a45d\AndroidManifest.xml:17:9-26:20
+	android:grantUriPermissions
+		ADDED from [com.blankj:utilcode:1.25.9] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\5a9c043b66b6d94bfc7621193425a45d\AndroidManifest.xml:21:13-47
+	android:authorities
+		ADDED from [com.blankj:utilcode:1.25.9] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\5a9c043b66b6d94bfc7621193425a45d\AndroidManifest.xml:19:13-69
+	android:multiprocess
+		ADDED from [com.blankj:utilcode:1.25.9] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\5a9c043b66b6d94bfc7621193425a45d\AndroidManifest.xml:22:13-40
+	android:exported
+		ADDED from [com.blankj:utilcode:1.25.9] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\5a9c043b66b6d94bfc7621193425a45d\AndroidManifest.xml:20:13-37
+	android:name
+		ADDED from [com.blankj:utilcode:1.25.9] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\5a9c043b66b6d94bfc7621193425a45d\AndroidManifest.xml:18:13-80
+service#com.blankj.utilcode.util.MessengerUtils$ServerService
+ADDED from [com.blankj:utilcode:1.25.9] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\5a9c043b66b6d94bfc7621193425a45d\AndroidManifest.xml:28:9-32:19
+	android:name
+		ADDED from [com.blankj:utilcode:1.25.9] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\5a9c043b66b6d94bfc7621193425a45d\AndroidManifest.xml:28:18-86
+intent-filter#action:name:${applicationId}.messenger
+ADDED from [com.blankj:utilcode:1.25.9] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\5a9c043b66b6d94bfc7621193425a45d\AndroidManifest.xml:29:13-31:29
+intent-filter#action:name:com.HBuilder.UniPlugin.messenger
+ADDED from [com.blankj:utilcode:1.25.9] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\5a9c043b66b6d94bfc7621193425a45d\AndroidManifest.xml:29:13-31:29
+action#${applicationId}.messenger
+ADDED from [com.blankj:utilcode:1.25.9] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\5a9c043b66b6d94bfc7621193425a45d\AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from [com.blankj:utilcode:1.25.9] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\5a9c043b66b6d94bfc7621193425a45d\AndroidManifest.xml:30:25-66
+action#com.HBuilder.UniPlugin.messenger
+ADDED from [com.blankj:utilcode:1.25.9] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\5a9c043b66b6d94bfc7621193425a45d\AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from [com.blankj:utilcode:1.25.9] C:\Users\JackyQ\.gradle\caches\transforms-2\files-2.1\5a9c043b66b6d94bfc7621193425a45d\AndroidManifest.xml:30:25-66

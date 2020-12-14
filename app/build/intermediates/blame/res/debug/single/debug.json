@@ -44,6 +44,10 @@
         "source": "C:\\Users\\JackyQ\\.gradle\\caches\\transforms-2\\files-2.1\\f529da73426cd1ecba952f6d4acf611b\\res\\drawable-xxxhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
     },
     {
+        "merged": "F:\\Project\\Android\\UniPlugin-Hello-AS - 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_trtccalling_ic_select_off.xml.flat",
+        "source": "F:\\Project\\Android\\UniPlugin-Hello-AS - 2\\jqplugin_trtc\\build\\intermediates\\packaged_res\\debug\\drawable\\trtccalling_ic_select_off.xml"
+    },
+    {
         "merged": "F:\\Project\\Android\\UniPlugin-Hello-AS - 2\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_tint_switch_track.xml.flat",
         "source": "C:\\Users\\JackyQ\\.gradle\\caches\\transforms-2\\files-2.1\\f529da73426cd1ecba952f6d4acf611b\\res\\color-v23\\abc_tint_switch_track.xml"
     },
@@ -110,6 +114,10 @@
     {
         "merged": "F:\\Project\\Android\\UniPlugin-Hello-AS - 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
         "source": "C:\\Users\\JackyQ\\.gradle\\caches\\transforms-2\\files-2.1\\f529da73426cd1ecba952f6d4acf611b\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\Project\\Android\\UniPlugin-Hello-AS - 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_trtccalling_icon_selector.xml.flat",
+        "source": "F:\\Project\\Android\\UniPlugin-Hello-AS - 2\\jqplugin_trtc\\build\\intermediates\\packaged_res\\debug\\drawable\\trtccalling_icon_selector.xml"
     },
     {
         "merged": "F:\\Project\\Android\\UniPlugin-Hello-AS - 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
@@ -332,6 +340,10 @@
         "source": "C:\\Users\\JackyQ\\.gradle\\caches\\transforms-2\\files-2.1\\25c79e47bdb8d792890f360de5dc59ca\\res\\layout-v16\\notification_template_custom_big.xml"
     },
     {
+        "merged": "F:\\Project\\Android\\UniPlugin-Hello-AS - 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_trtccalling_bg_mute_mic.xml.flat",
+        "source": "F:\\Project\\Android\\UniPlugin-Hello-AS - 2\\jqplugin_trtc\\build\\intermediates\\packaged_res\\debug\\drawable\\trtccalling_bg_mute_mic.xml"
+    },
+    {
         "merged": "F:\\Project\\Android\\UniPlugin-Hello-AS - 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_dcloud_streamapp_about_update.png.flat",
         "source": "C:\\Users\\JackyQ\\.gradle\\caches\\transforms-2\\files-2.1\\e752cf6ad9e81ff93890db2f1d8fa99a\\res\\drawable-xhdpi-v4\\dcloud_streamapp_about_update.png"
     },
@@ -350,6 +362,10 @@
     {
         "merged": "F:\\Project\\Android\\UniPlugin-Hello-AS - 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
         "source": "C:\\Users\\JackyQ\\.gradle\\caches\\transforms-2\\files-2.1\\f529da73426cd1ecba952f6d4acf611b\\res\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\Project\\Android\\UniPlugin-Hello-AS - 2\\app\\build\\intermediates\\res\\merged\\debug\\xml_util_code_provider_paths.xml.flat",
+        "source": "C:\\Users\\JackyQ\\.gradle\\caches\\transforms-2\\files-2.1\\5a9c043b66b6d94bfc7621193425a45d\\res\\xml\\util_code_provider_paths.xml"
     },
     {
         "merged": "F:\\Project\\Android\\UniPlugin-Hello-AS - 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dcloud_shortcut_guide_xiaomi.gif.flat",
@@ -394,6 +410,14 @@
     {
         "merged": "F:\\Project\\Android\\UniPlugin-Hello-AS - 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_side_bar_custom_menu_item_selected.png.flat",
         "source": "C:\\Users\\JackyQ\\.gradle\\caches\\transforms-2\\files-2.1\\e752cf6ad9e81ff93890db2f1d8fa99a\\res\\drawable-xhdpi-v4\\side_bar_custom_menu_item_selected.png"
+    },
+    {
+        "merged": "F:\\Project\\Android\\UniPlugin-Hello-AS - 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_trtccalling_bg_main_gradient.xml.flat",
+        "source": "F:\\Project\\Android\\UniPlugin-Hello-AS - 2\\jqplugin_trtc\\build\\intermediates\\packaged_res\\debug\\drawable\\trtccalling_bg_main_gradient.xml"
+    },
+    {
+        "merged": "F:\\Project\\Android\\UniPlugin-Hello-AS - 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_trtccalling_bg_dialing.xml.flat",
+        "source": "F:\\Project\\Android\\UniPlugin-Hello-AS - 2\\jqplugin_trtc\\build\\intermediates\\packaged_res\\debug\\drawable\\trtccalling_bg_dialing.xml"
     },
     {
         "merged": "F:\\Project\\Android\\UniPlugin-Hello-AS - 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
@@ -652,6 +676,10 @@
         "source": "C:\\Users\\JackyQ\\.gradle\\caches\\transforms-2\\files-2.1\\f529da73426cd1ecba952f6d4acf611b\\res\\drawable-ldrtl-xhdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
+        "merged": "F:\\Project\\Android\\UniPlugin-Hello-AS - 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_trtccalling_icon_clear_search.png.flat",
+        "source": "F:\\Project\\Android\\UniPlugin-Hello-AS - 2\\jqplugin_trtc\\build\\intermediates\\packaged_res\\debug\\drawable-xxhdpi-v4\\trtccalling_icon_clear_search.png"
+    },
+    {
         "merged": "F:\\Project\\Android\\UniPlugin-Hello-AS - 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_search_api_material.xml.flat",
         "source": "C:\\Users\\JackyQ\\.gradle\\caches\\transforms-2\\files-2.1\\f529da73426cd1ecba952f6d4acf611b\\res\\drawable\\abc_ic_search_api_material.xml"
     },
@@ -828,6 +856,10 @@
         "source": "C:\\Users\\JackyQ\\.gradle\\caches\\transforms-2\\files-2.1\\f529da73426cd1ecba952f6d4acf611b\\res\\drawable-ldrtl-hdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
+        "merged": "F:\\Project\\Android\\UniPlugin-Hello-AS - 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_trtccalling_bg_divider.xml.flat",
+        "source": "F:\\Project\\Android\\UniPlugin-Hello-AS - 2\\jqplugin_trtc\\build\\intermediates\\packaged_res\\debug\\drawable\\trtccalling_bg_divider.xml"
+    },
+    {
         "merged": "F:\\Project\\Android\\UniPlugin-Hello-AS - 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_focused_holo.9.png.flat",
         "source": "C:\\Users\\JackyQ\\.gradle\\caches\\transforms-2\\files-2.1\\f529da73426cd1ecba952f6d4acf611b\\res\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png"
     },
@@ -870,6 +902,10 @@
     {
         "merged": "F:\\Project\\Android\\UniPlugin-Hello-AS - 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
         "source": "C:\\Users\\JackyQ\\.gradle\\caches\\transforms-2\\files-2.1\\25c79e47bdb8d792890f360de5dc59ca\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "F:\\Project\\Android\\UniPlugin-Hello-AS - 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_trtccalling_ic_mutemic_enable.png.flat",
+        "source": "F:\\Project\\Android\\UniPlugin-Hello-AS - 2\\jqplugin_trtc\\build\\intermediates\\packaged_res\\debug\\drawable-xxhdpi-v4\\trtccalling_ic_mutemic_enable.png"
     },
     {
         "merged": "F:\\Project\\Android\\UniPlugin-Hello-AS - 2\\app\\build\\intermediates\\res\\merged\\debug\\layout_weex_recycler_layout.xml.flat",
@@ -1024,6 +1060,10 @@
         "source": "C:\\Users\\JackyQ\\.gradle\\caches\\transforms-2\\files-2.1\\f529da73426cd1ecba952f6d4acf611b\\res\\drawable-mdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
     },
     {
+        "merged": "F:\\Project\\Android\\UniPlugin-Hello-AS - 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_trtccalling_audio_input_display.png.flat",
+        "source": "F:\\Project\\Android\\UniPlugin-Hello-AS - 2\\jqplugin_trtc\\build\\intermediates\\packaged_res\\debug\\drawable-xxhdpi-v4\\trtccalling_audio_input_display.png"
+    },
+    {
         "merged": "F:\\Project\\Android\\UniPlugin-Hello-AS - 2\\app\\build\\intermediates\\res\\merged\\debug\\layout_dcloud_record_address.xml.flat",
         "source": "C:\\Users\\JackyQ\\.gradle\\caches\\transforms-2\\files-2.1\\e752cf6ad9e81ff93890db2f1d8fa99a\\res\\layout\\dcloud_record_address.xml"
     },
@@ -1112,6 +1152,10 @@
         "source": "C:\\Users\\JackyQ\\.gradle\\caches\\transforms-2\\files-2.1\\f529da73426cd1ecba952f6d4acf611b\\res\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
     },
     {
+        "merged": "F:\\Project\\Android\\UniPlugin-Hello-AS - 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_trtccalling_ic_select_on.png.flat",
+        "source": "F:\\Project\\Android\\UniPlugin-Hello-AS - 2\\jqplugin_trtc\\build\\intermediates\\packaged_res\\debug\\drawable-xxhdpi-v4\\trtccalling_ic_select_on.png"
+    },
+    {
         "merged": "F:\\Project\\Android\\UniPlugin-Hello-AS - 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
         "source": "C:\\Users\\JackyQ\\.gradle\\caches\\transforms-2\\files-2.1\\25c79e47bdb8d792890f360de5dc59ca\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
     },
@@ -1138,6 +1182,10 @@
     {
         "merged": "F:\\Project\\Android\\UniPlugin-Hello-AS - 2\\app\\build\\intermediates\\res\\merged\\debug\\color-v21_abc_btn_colored_borderless_text_material.xml.flat",
         "source": "C:\\Users\\JackyQ\\.gradle\\caches\\transforms-2\\files-2.1\\f529da73426cd1ecba952f6d4acf611b\\res\\color-v21\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "F:\\Project\\Android\\UniPlugin-Hello-AS - 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_trtccalling_ic_handsfree_enable.png.flat",
+        "source": "F:\\Project\\Android\\UniPlugin-Hello-AS - 2\\jqplugin_trtc\\build\\intermediates\\packaged_res\\debug\\drawable-xxhdpi-v4\\trtccalling_ic_handsfree_enable.png"
     },
     {
         "merged": "F:\\Project\\Android\\UniPlugin-Hello-AS - 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
@@ -1184,6 +1232,10 @@
         "source": "C:\\Users\\JackyQ\\.gradle\\caches\\transforms-2\\files-2.1\\e752cf6ad9e81ff93890db2f1d8fa99a\\res\\drawable-xhdpi-v4\\dcloud_streamapp_about_first_start_short_cut_normal.png"
     },
     {
+        "merged": "F:\\Project\\Android\\UniPlugin-Hello-AS - 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_trtccalling_icon_contacts_search.png.flat",
+        "source": "F:\\Project\\Android\\UniPlugin-Hello-AS - 2\\jqplugin_trtc\\build\\intermediates\\packaged_res\\debug\\drawable-xxhdpi-v4\\trtccalling_icon_contacts_search.png"
+    },
+    {
         "merged": "F:\\Project\\Android\\UniPlugin-Hello-AS - 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_sidebar_shortcut.png.flat",
         "source": "C:\\Users\\JackyQ\\.gradle\\caches\\transforms-2\\files-2.1\\e752cf6ad9e81ff93890db2f1d8fa99a\\res\\drawable-xhdpi-v4\\sidebar_shortcut.png"
     },
@@ -1220,6 +1272,10 @@
         "source": "C:\\Users\\JackyQ\\.gradle\\caches\\transforms-2\\files-2.1\\25c79e47bdb8d792890f360de5dc59ca\\res\\layout-v21\\notification_action.xml"
     },
     {
+        "merged": "F:\\Project\\Android\\UniPlugin-Hello-AS - 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_trtccalling_ic_handsfree_disable.png.flat",
+        "source": "F:\\Project\\Android\\UniPlugin-Hello-AS - 2\\jqplugin_trtc\\build\\intermediates\\packaged_res\\debug\\drawable-xxhdpi-v4\\trtccalling_ic_handsfree_disable.png"
+    },
+    {
         "merged": "F:\\Project\\Android\\UniPlugin-Hello-AS - 2\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_btn_colored_text_material.xml.flat",
         "source": "C:\\Users\\JackyQ\\.gradle\\caches\\transforms-2\\files-2.1\\f529da73426cd1ecba952f6d4acf611b\\res\\color-v23\\abc_btn_colored_text_material.xml"
     },
@@ -1252,8 +1308,16 @@
         "source": "C:\\Users\\JackyQ\\.gradle\\caches\\transforms-2\\files-2.1\\f529da73426cd1ecba952f6d4acf611b\\res\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
+        "merged": "F:\\Project\\Android\\UniPlugin-Hello-AS - 2\\app\\build\\intermediates\\res\\merged\\debug\\layout_trtccalling_videocall_activity_call_main.xml.flat",
+        "source": "F:\\Project\\Android\\UniPlugin-Hello-AS - 2\\jqplugin_trtc\\build\\intermediates\\packaged_res\\debug\\layout\\trtccalling_videocall_activity_call_main.xml"
+    },
+    {
         "merged": "F:\\Project\\Android\\UniPlugin-Hello-AS - 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxxhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
         "source": "C:\\Users\\JackyQ\\.gradle\\caches\\transforms-2\\files-2.1\\f529da73426cd1ecba952f6d4acf611b\\res\\drawable-ldrtl-xxxhdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "F:\\Project\\Android\\UniPlugin-Hello-AS - 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_trtccalling_ic_back.png.flat",
+        "source": "F:\\Project\\Android\\UniPlugin-Hello-AS - 2\\jqplugin_trtc\\build\\intermediates\\packaged_res\\debug\\drawable-xxhdpi-v4\\trtccalling_ic_back.png"
     },
     {
         "merged": "F:\\Project\\Android\\UniPlugin-Hello-AS - 2\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_alert_dialog_material.xml.flat",
@@ -1290,6 +1354,10 @@
     {
         "merged": "F:\\Project\\Android\\UniPlugin-Hello-AS - 2\\app\\build\\intermediates\\res\\merged\\debug\\layout_dcloud_loadingview.xml.flat",
         "source": "C:\\Users\\JackyQ\\.gradle\\caches\\transforms-2\\files-2.1\\e752cf6ad9e81ff93890db2f1d8fa99a\\res\\layout\\dcloud_loadingview.xml"
+    },
+    {
+        "merged": "F:\\Project\\Android\\UniPlugin-Hello-AS - 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_trtccalling_ic_hangup.png.flat",
+        "source": "F:\\Project\\Android\\UniPlugin-Hello-AS - 2\\jqplugin_trtc\\build\\intermediates\\packaged_res\\debug\\drawable-xxhdpi-v4\\trtccalling_ic_hangup.png"
     },
     {
         "merged": "F:\\Project\\Android\\UniPlugin-Hello-AS - 2\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_action.xml.flat",
@@ -1500,6 +1568,10 @@
         "source": "C:\\Users\\JackyQ\\.gradle\\caches\\transforms-2\\files-2.1\\f529da73426cd1ecba952f6d4acf611b\\res\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
     },
     {
+        "merged": "F:\\Project\\Android\\UniPlugin-Hello-AS - 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_trtccalling_ic_dialing.png.flat",
+        "source": "F:\\Project\\Android\\UniPlugin-Hello-AS - 2\\jqplugin_trtc\\build\\intermediates\\packaged_res\\debug\\drawable-xxhdpi-v4\\trtccalling_ic_dialing.png"
+    },
+    {
         "merged": "F:\\Project\\Android\\UniPlugin-Hello-AS - 2\\app\\build\\intermediates\\res\\merged\\debug\\layout_dcloud_custom_notification.xml.flat",
         "source": "C:\\Users\\JackyQ\\.gradle\\caches\\transforms-2\\files-2.1\\e752cf6ad9e81ff93890db2f1d8fa99a\\res\\layout\\dcloud_custom_notification.xml"
     },
@@ -1568,6 +1640,10 @@
         "source": "C:\\Users\\JackyQ\\.gradle\\caches\\transforms-2\\files-2.1\\f529da73426cd1ecba952f6d4acf611b\\res\\drawable-mdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
     },
     {
+        "merged": "F:\\Project\\Android\\UniPlugin-Hello-AS - 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_trtccalling_ic_avatar.png.flat",
+        "source": "F:\\Project\\Android\\UniPlugin-Hello-AS - 2\\jqplugin_trtc\\build\\intermediates\\packaged_res\\debug\\drawable-xxhdpi-v4\\trtccalling_ic_avatar.png"
+    },
+    {
         "merged": "F:\\Project\\Android\\UniPlugin-Hello-AS - 2\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_primary_text_disable_only_material_dark.xml.flat",
         "source": "C:\\Users\\JackyQ\\.gradle\\caches\\transforms-2\\files-2.1\\f529da73426cd1ecba952f6d4acf611b\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
     },
@@ -1624,8 +1700,16 @@
         "source": "C:\\Users\\JackyQ\\.gradle\\caches\\transforms-2\\files-2.1\\f529da73426cd1ecba952f6d4acf611b\\res\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png"
     },
     {
+        "merged": "F:\\Project\\Android\\UniPlugin-Hello-AS - 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_trtccalling_ic_dialing_pressed.png.flat",
+        "source": "F:\\Project\\Android\\UniPlugin-Hello-AS - 2\\jqplugin_trtc\\build\\intermediates\\packaged_res\\debug\\drawable-xxhdpi-v4\\trtccalling_ic_dialing_pressed.png"
+    },
+    {
         "merged": "F:\\Project\\Android\\UniPlugin-Hello-AS - 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v23_abc_control_background_material.xml.flat",
         "source": "C:\\Users\\JackyQ\\.gradle\\caches\\transforms-2\\files-2.1\\f529da73426cd1ecba952f6d4acf611b\\res\\drawable-v23\\abc_control_background_material.xml"
+    },
+    {
+        "merged": "F:\\Project\\Android\\UniPlugin-Hello-AS - 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_trtccalling_bg_handsfree.xml.flat",
+        "source": "F:\\Project\\Android\\UniPlugin-Hello-AS - 2\\jqplugin_trtc\\build\\intermediates\\packaged_res\\debug\\drawable\\trtccalling_bg_handsfree.xml"
     },
     {
         "merged": "F:\\Project\\Android\\UniPlugin-Hello-AS - 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
@@ -1674,6 +1758,10 @@
     {
         "merged": "F:\\Project\\Android\\UniPlugin-Hello-AS - 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\JackyQ\\.gradle\\caches\\transforms-2\\files-2.1\\f529da73426cd1ecba952f6d4acf611b\\res\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\Project\\Android\\UniPlugin-Hello-AS - 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_trtccalling_ic_mutemic_disable.png.flat",
+        "source": "F:\\Project\\Android\\UniPlugin-Hello-AS - 2\\jqplugin_trtc\\build\\intermediates\\packaged_res\\debug\\drawable-xxhdpi-v4\\trtccalling_ic_mutemic_disable.png"
     },
     {
         "merged": "F:\\Project\\Android\\UniPlugin-Hello-AS - 2\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_tint_default.xml.flat",
@@ -1740,12 +1828,12 @@
         "source": "C:\\Users\\JackyQ\\.gradle\\caches\\transforms-2\\files-2.1\\f529da73426cd1ecba952f6d4acf611b\\res\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
     },
     {
-        "merged": "F:\\Project\\Android\\UniPlugin-Hello-AS - 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ratingbar_small_material.xml.flat",
-        "source": "C:\\Users\\JackyQ\\.gradle\\caches\\transforms-2\\files-2.1\\f529da73426cd1ecba952f6d4acf611b\\res\\drawable\\abc_ratingbar_small_material.xml"
-    },
-    {
         "merged": "F:\\Project\\Android\\UniPlugin-Hello-AS - 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\JackyQ\\.gradle\\caches\\transforms-2\\files-2.1\\f529da73426cd1ecba952f6d4acf611b\\res\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\Project\\Android\\UniPlugin-Hello-AS - 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ratingbar_small_material.xml.flat",
+        "source": "C:\\Users\\JackyQ\\.gradle\\caches\\transforms-2\\files-2.1\\f529da73426cd1ecba952f6d4acf611b\\res\\drawable\\abc_ratingbar_small_material.xml"
     },
     {
         "merged": "F:\\Project\\Android\\UniPlugin-Hello-AS - 2\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_menu_layout.xml.flat",
@@ -1766,6 +1854,14 @@
     {
         "merged": "F:\\Project\\Android\\UniPlugin-Hello-AS - 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dcloud_webview_activity_title_bg.xml.flat",
         "source": "C:\\Users\\JackyQ\\.gradle\\caches\\transforms-2\\files-2.1\\e752cf6ad9e81ff93890db2f1d8fa99a\\res\\drawable\\dcloud_webview_activity_title_bg.xml"
+    },
+    {
+        "merged": "F:\\Project\\Android\\UniPlugin-Hello-AS - 2\\app\\build\\intermediates\\res\\merged\\debug\\layout_trtccalling_videocall_item_user_layout.xml.flat",
+        "source": "F:\\Project\\Android\\UniPlugin-Hello-AS - 2\\jqplugin_trtc\\build\\intermediates\\packaged_res\\debug\\layout\\trtccalling_videocall_item_user_layout.xml"
+    },
+    {
+        "merged": "F:\\Project\\Android\\UniPlugin-Hello-AS - 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_trtccalling_ic_hangup_pressed.png.flat",
+        "source": "F:\\Project\\Android\\UniPlugin-Hello-AS - 2\\jqplugin_trtc\\build\\intermediates\\packaged_res\\debug\\drawable-xxhdpi-v4\\trtccalling_ic_hangup_pressed.png"
     },
     {
         "merged": "F:\\Project\\Android\\UniPlugin-Hello-AS - 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
@@ -1832,6 +1928,10 @@
         "source": "C:\\Users\\JackyQ\\.gradle\\caches\\transforms-2\\files-2.1\\f529da73426cd1ecba952f6d4acf611b\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_36dp.png"
     },
     {
+        "merged": "F:\\Project\\Android\\UniPlugin-Hello-AS - 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_trtccalling_wait_background.xml.flat",
+        "source": "F:\\Project\\Android\\UniPlugin-Hello-AS - 2\\jqplugin_trtc\\build\\intermediates\\packaged_res\\debug\\drawable\\trtccalling_wait_background.xml"
+    },
+    {
         "merged": "F:\\Project\\Android\\UniPlugin-Hello-AS - 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_black_48dp.png.flat",
         "source": "C:\\Users\\JackyQ\\.gradle\\caches\\transforms-2\\files-2.1\\f529da73426cd1ecba952f6d4acf611b\\res\\drawable-xxxhdpi-v4\\abc_ic_star_black_48dp.png"
     },
@@ -1846,6 +1946,10 @@
     {
         "merged": "F:\\Project\\Android\\UniPlugin-Hello-AS - 2\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_time.xml.flat",
         "source": "C:\\Users\\JackyQ\\.gradle\\caches\\transforms-2\\files-2.1\\25c79e47bdb8d792890f360de5dc59ca\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "F:\\Project\\Android\\UniPlugin-Hello-AS - 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_trtccalling_bg_hangup.xml.flat",
+        "source": "F:\\Project\\Android\\UniPlugin-Hello-AS - 2\\jqplugin_trtc\\build\\intermediates\\packaged_res\\debug\\drawable\\trtccalling_bg_hangup.xml"
     },
     {
         "merged": "F:\\Project\\Android\\UniPlugin-Hello-AS - 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_half_black_16dp.png.flat",
@@ -1988,6 +2092,10 @@
         "source": "C:\\Users\\JackyQ\\.gradle\\caches\\transforms-2\\files-2.1\\e752cf6ad9e81ff93890db2f1d8fa99a\\res\\drawable-xhdpi-v4\\dcloud_streamapp_icon_appdefault.png"
     },
     {
+        "merged": "F:\\Project\\Android\\UniPlugin-Hello-AS - 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_trtccalling_icon_search.png.flat",
+        "source": "F:\\Project\\Android\\UniPlugin-Hello-AS - 2\\jqplugin_trtc\\build\\intermediates\\packaged_res\\debug\\drawable-xxhdpi-v4\\trtccalling_icon_search.png"
+    },
+    {
         "merged": "F:\\Project\\Android\\UniPlugin-Hello-AS - 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_vector_test.xml.flat",
         "source": "C:\\Users\\JackyQ\\.gradle\\caches\\transforms-2\\files-2.1\\f529da73426cd1ecba952f6d4acf611b\\res\\drawable\\abc_vector_test.xml"
     },
@@ -2030,6 +2138,10 @@
     {
         "merged": "F:\\Project\\Android\\UniPlugin-Hello-AS - 2\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_tooltip.xml.flat",
         "source": "C:\\Users\\JackyQ\\.gradle\\caches\\transforms-2\\files-2.1\\f529da73426cd1ecba952f6d4acf611b\\res\\layout\\abc_tooltip.xml"
+    },
+    {
+        "merged": "F:\\Project\\Android\\UniPlugin-Hello-AS - 2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_trtccalling_bg_button_border.xml.flat",
+        "source": "F:\\Project\\Android\\UniPlugin-Hello-AS - 2\\jqplugin_trtc\\build\\intermediates\\packaged_res\\debug\\drawable\\trtccalling_bg_button_border.xml"
     },
     {
         "merged": "F:\\Project\\Android\\UniPlugin-Hello-AS - 2\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_btn_colored_borderless_text_material.xml.flat",
