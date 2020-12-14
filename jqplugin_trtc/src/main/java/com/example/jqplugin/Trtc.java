@@ -6,6 +6,8 @@ import android.content.Intent;
 import android.util.Log;
 
 import com.alibaba.fastjson.JSONObject;
+import com.example.jqplugin.model.TRTCCalling;
+import com.example.jqplugin.model.impl.TRTCCallingImpl;
 import com.tencent.imsdk.v2.V2TIMCallback;
 import com.tencent.imsdk.v2.V2TIMManager;
 import com.tencent.imsdk.v2.V2TIMSDKConfig;
@@ -15,6 +17,11 @@ import com.tencent.imsdk.v2.V2TIMSDKListener;
 import io.dcloud.feature.uniapp.annotation.UniJSMethod;
 import io.dcloud.feature.uniapp.bridge.UniJSCallback;
 import io.dcloud.feature.uniapp.common.UniModule;
+
+import com.example.jqplugin.ui.videocall.TRTCVideoCallActivity;
+
+import java.util.ArrayList;
+import java.util.List;
 
 public class Trtc extends UniModule {
     final String TAG = "JQ-TRTC";
@@ -29,53 +36,27 @@ public class Trtc extends UniModule {
     public void config(final JSONObject options, UniJSCallback callback) {
         if(callback != null) {
             uniJSCallback = callback;
-            JSONObject data = new JSONObject();
 
             V2TIMSDKConfig config = new V2TIMSDKConfig();
             config.setLogLevel(V2TIMSDKConfig.V2TIM_LOG_INFO);
             Context context = mUniSDKInstance.getContext();
             int sdkAppID = (int) options.get("appid");
+            String userId = (String) options.get("userId");
+            String userSig = (String) options.get("userSig");
 
-//            int loginStatus = V2TIMManager.getInstance().getLoginStatus();
-//            if (loginStatus == V2TIMManager.V2TIM_STATUS_LOGINED || loginStatus == V2TIMManager.V2TIM_STATUS_LOGINING) {
-//                Log.e(TAG, "请不要重复登录");
-//                return;
-//            }
-
-            V2TIMManager.getInstance().initSDK(context, sdkAppID, config, new V2TIMSDKListener() {
-                // 5. 监听 V2TIMSDKListener 回调
+            TRTCCalling sCall = TRTCCallingImpl.sharedInstance(context);
+            sCall.login(sdkAppID, userId, userSig, new TRTCCalling.ActionCallBack() {
                 @Override
-                public void onConnecting() {
-                    // 正在连接到腾讯云服务器
-                    Log.e(TAG, "正在连接到腾讯云服务器");
-                }
-                @Override
-                public void onConnectSuccess() {
-                    // 已经成功连接到腾讯云服务器
-                    Log.e(TAG, "已经成功连接到腾讯云服务器");
-                    V2TIMManager.getInstance().login((String) options.get("userId"), (String) options.get("userSig"), new V2TIMCallback() {
-
-                        @Override
-                        public void onError(int code, String desc) {
-                            JSONObject data = new JSONObject();
-                            data.put("code", "登录失败");
-                            uniJSCallback.invoke(data);
-                        }
-
-                        @Override
-                        public void onSuccess() {
-                            JSONObject data = new JSONObject();
-                            data.put("code", "登录成功");
-                            uniJSCallback.invoke(data);
-                        }
-                    });
-                }
-                @Override
-                public void onConnectFailed(int code, String error) {
-                    // 连接腾讯云服务器失败
-                    Log.e(TAG, "连接腾讯云服务器失败");
+                public void onError(int code, String msg) {
                     JSONObject data = new JSONObject();
-                    data.put("code", "登录失败");
+                    data.put("code", "登录失敗");
+                    uniJSCallback.invoke(data);
+                }
+
+                @Override
+                public void onSuccess() {
+                    JSONObject data = new JSONObject();
+                    data.put("code", "登录成功");
                     uniJSCallback.invoke(data);
                 }
             });
@@ -102,7 +83,19 @@ public class Trtc extends UniModule {
             return;
         }
         Activity currentActivity = ((Activity)mUniSDKInstance.getContext());
-        Intent intent=new Intent(mUniSDKInstance.getContext(), MainActivity.class);
-        currentActivity.startActivity(intent);
+
+        TRTCVideoCallActivity.UserInfo selfInfo = new TRTCVideoCallActivity.UserInfo();
+        selfInfo.userId = (String) options.get("userId");
+        selfInfo.userAvatar = (String) options.get("userAvatar");
+        selfInfo.userName = (String) options.get("userName");
+
+        List<TRTCVideoCallActivity.UserInfo> callUserInfoList = new ArrayList<>();
+        TRTCVideoCallActivity.UserInfo callUserInfo = new TRTCVideoCallActivity.UserInfo();
+        JSONObject targetTmp = (JSONObject) options.get("targetInfo");
+        callUserInfo.userId = (String) targetTmp.get("userId");
+        callUserInfo.userAvatar = (String) targetTmp.get("userAvatar");
+        callUserInfo.userName = (String) targetTmp.get("userName");
+        callUserInfoList.add(callUserInfo);
+        TRTCVideoCallActivity.startCallSomeone(mUniSDKInstance.getContext(), selfInfo, callUserInfoList);
     }
 }
